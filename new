@@ -1148,18 +1148,18 @@
 【根據圜周】datum circumference、基準圓周、（根據+圜周）
 【根據線】datum line、基準線、（根據+線）
 【根據點】datum point、基準點、（根據+點）
-【所予分析】data analysis、數據分析、資料分析、（所予+分析）
-【所予安全】data security、數據安全、資料安全、（所予+安全）
-【所予舛錯】data error、數據錯誤、資料誤差、（所予+舛錯）
-【所予貨棧】data warehousing、數據倉庫、資料倉儲、（所予+貨棧）
-【實驗所予】experimental data、實驗數據、（實驗+所予）
-【所予取得】data acquisition、數據採集、（所予+取得）
-【試驗所予】test data、測試數據、檢查數據、（試驗+所予）
-【所予構造】data structure、數據結構、（所予+構造）
-【所予管理】data management、數據管理、（所予+管理）
-【統計所予】statistical data、統計數據、（統計+所予）
-【度量所予】measured data、測量數據、（度量+所予）
-【箇人所予】personal data、個人資料、個人數據、（箇人+所予）
+【所予分析、根據分析】data analysis、數據分析、資料分析、（所予/根據+分析）
+【所予安全、根據安全】data security、數據安全、資料安全、（所予/根據+安全）
+【所予舛錯、根據舛錯】data error、數據錯誤、資料誤差、（所予/根據+舛錯）
+【所予貨棧、根據貨棧】data warehousing、數據倉庫、資料倉儲、（所予/根據+貨棧）
+【實驗所予、實驗根據】experimental data、實驗數據、（實驗+所予/根據）
+【所予取得、根據取得】data acquisition、數據採集、（所予/根據+取得）
+【試驗所予、試驗根據】test data、測試數據、檢查數據、（試驗+所予/根據）
+【所予構造、根據構造】data structure、數據結構、（所予/根據+構造）
+【所予管理、根據管理】data management、數據管理、（所予/根據+管理）
+【統計所予、統計根據】statistical data、統計數據、（統計+所予/根據）
+【度量所予、度量根據】measured data、測量數據、（度量+所予/根據）
+【箇人所予、箇人根據】personal data、個人資料、個人數據、（箇人+所予/根據）
 【貨棧管理】warehouse management、倉庫管理、（貨棧+管理）
 【貨棧收據】warehouse receipt、倉庫收據、倉單、棧單、（貨棧+收據）
 【貨棧儲貨】warehouse stock、倉庫庫存、（貨棧+儲貨）
@@ -1191,7 +1191,7 @@
 【浮溢率】inflation rate、通貨膨脹率、（浮溢+率）
 【物價浮溢】price inflation、物價膨脹、（物價+浮溢）
 【筧水費】water-supply cost、供水成本、（筧水+費）
-【取得所予之制】data acquisition system、數據採集系統、資料獲取系統、（取得+所予+制）
+【取得所予之制、取得根據之制】data acquisition system、數據採集系統、資料獲取系統、（取得+所予/根據+制）
 【智識之取得】knowledge acquisition、知識獲取、（智識+取得）
 【股分之取得】share acquisition、股權收購、（股分+取得）
 【土地之取得】land acquisition、土地徵用、（土地+取得）
@@ -1250,7 +1250,7 @@
 【拓都供給】aggregate supply、總供給、總體供應、（拓都+供給）
 【生計上之拓都】economic aggregate、經濟總體、經濟總量、（生計+拓都）
 【拓都殖產】aggregate production、總生產、（拓都+殖產）
-【拓都所予】aggregate data、總體資料、綜合數據、（拓都+所予）
+【拓都所予、拓都根據】aggregate data、總體資料、綜合數據、（拓都+所予/根據）
 【拓都出產】aggregate output、總生產、（拓都+出產）
 【拓都幾何】total quantity、總量、（拓都+幾何）
 【協諧之羣】harmonious society、和諧社會、（協諧+羣）
@@ -1315,7 +1315,7 @@
 【保守之德】conservative property、保守性、（保守+德）
 【保守預算】conservative estimate、保守的估算、（保守+預算）
 【保守政府】conservative government、保守政權、（保守+政府）
-【揭桓所予】crucial data、關鍵資料、關鍵數據、（揭桓+所予）
+【揭桓所予、揭桓根據】crucial data、關鍵資料、關鍵數據、（揭桓+所予/根據）
 【非洲䔹茝】african daisy、非洲雛菊、（非洲+䔹茝）
 【揭桓決擇】crucial decisions、關鍵決策、（揭桓+決擇）
 【揭桓問題】crucial problem、關鍵問題、（揭桓+問題）
@@ -1639,7 +1639,7 @@
 【反身懸想】reflective abstraction、反身抽象、反思抽象、（反身+懸想）
 【懸想之知】abstraction cognition、抽象認識、（懸想+知）
 【節次懸想】procedure abstraction、過程抽象、（節次+懸想）
-【所予懸想】data abstraction、數據抽象、（所予+懸想）
+【所予懸想、根據懸想】data abstraction、數據抽象、（所予/根據+懸想）
 【計略精神】contrivance principle、設計原則、（計略+精神）
 【人類計略】human contrivance、人類發明創造、（人類+計略）
 【專門計略】technical contrivance、工藝設計、（專門+計略）
@@ -1842,7 +1842,7 @@
 【直接交易】direct exchange/barter、直接交換、以物易物、（直接+交易）
 【非平衡】disequilibrium、非均衡、（非+平衡）
 【工作無利】disutility of labor、勞動的負效用、（工作+無利）
-【生計之民政】economic democracy、經濟民主、（生計+民政）
+【生計民政、生計庶建】economic democracy、經濟民主、（生計+民政/庶建）
 【比例生計】economies of scale、規模經濟、（比例+生計）
 【平衡位】equilibrium position、均衡位置、（平衡+位）
 【平衡價】equilibrium price/market-clearing price、均衡價格、市場出清價格、（平衡+價）
@@ -2275,7 +2275,7 @@
 【倫理理想】ethical ideal、（倫理+理想）
 【政治理想】political ideal、（政治+理想）
 【人羣理想】social ideal、社會理想、（人羣+理想）
-【民政理想】democratic ideal、民主理想、（民政+理想）
+【民政理想、庶建理想】democratic ideal、民主理想、（民政/庶建+理想）
 【自繇理想】liberal ideal、自由主義理想、（自繇+理想）
 【變革理想】revolutionary ideal、革命理想、（變革+理想）
 【社會主義理想】socialist ideal、（社會主義+理想）
@@ -3217,7 +3217,7 @@
 【政治遺傳】political tradition、政治傳統、（政治+遺傳）
 【教宗遺傳】religious tradition、宗教傳統、（教宗+遺傳）
 【戲事遺傳】sporting tradition、體育傳統、（戲事+遺傳）
-【民政遺傳】democratic tradition、民主傳統、（民政+遺傳）
+【民政遺傳、庶建遺傳】democratic tradition、民主傳統、（民政/庶建+遺傳）
 【自繇遺傳】liberal tradition、自由主義傳統、（自繇+遺傳）
 【民本遺傳】radical tradition、激進傳統、（民本+遺傳）
 【革命遺傳】revolutionary tradition、革命傳統、（革命+遺傳）
@@ -4293,7 +4293,7 @@
 【生計根柢】economic base、經濟基礎、（生計+根柢）
 【證據根柢】evidence base、證據基礎、（證據+根柢）
 【科學根柢】scientific base、科學基礎、（科學+根柢）
-【民政根柢】democratic base、民主基礎、（民政+根柢）
+【民政根柢、庶建根柢】democratic base、民主基礎、（民政/庶建+根柢）
 【資產根柢】asset base、資產基礎、（資產+根柢）
 【商業根柢】commercial base、商業基礎、（商業+根柢）
 【度支根柢】financial base、財政基礎、（度支+根柢）
@@ -4593,7 +4593,7 @@
 【易覺字】sensitive word、敏感詞、（易覺+字）
 【易覺期】sensitive period、敏感期、（易覺+期）
 【易覺地】sensitive area、敏感地區、（易覺+地）
-【易覺所予】sensitive data、敏感數據、敏感資料、（易覺+所予）
+【易覺所予、易覺根據】sensitive data、敏感數據、敏感資料、（易覺+所予/根據）
 【易覺皮膚】sensitive skin、敏感性皮膚、（易覺+皮膚）
 【高易覺】highly sensitive、高靈敏度、（高+易覺）
 【壓覺】pressure sensitive、壓敏、（壓+覺）
@@ -4779,7 +4779,7 @@
 【獨立公治國】independent republic、獨立共和國、（獨立+公治國）
 【主權公治國】sovereign republic、主權獨立共和國、（主權+公治國）
 【眾治公治國】constitutional republic、立憲共和國、（眾治+公治國）
-【民政公治國】democratic republic、民主共和國、（民政+公治國）
+【民政公治國、庶建公治國】democratic republic、民主共和國、（民政/庶建+公治國）
 【合縱公治國】federal republic、聯邦共和國、（合縱+公治國）
 【回教公治國】islamic republic、伊斯蘭共和國、（回教+公治國）
 【民人公治國】people's republic、人民共和國、（民人+公治國）
@@ -4883,7 +4883,7 @@
 【壟斷貲本主義】monopoly capitalism、壟斷資本主義、（壟斷+貲本主義）
 【庸眾貲本主義】popular capitalism、民粹資本主義、（庸眾+貲本主義）
 【善生貲本主義】welfare capitalism、福利資本主義、（善生+貲本主義）
-【民政貲本主義】democratic capitalism、民主資本主義、（民政+貲本主義）
+【民政貲本主義、庶建貲本主義】democratic capitalism、民主資本主義、（民政/庶建+貲本主義）
 【自繇貲本主義】liberal capitalism、自由資本主義、（自繇+貲本主義）
 【新自繇貲本主義】neoliberal capitalism、新自由資本主義、（新+自繇+貲本主義）
 【消滅貲本主義】destroy capitalism、摧毀資本主義、（消滅+貲本主義）
@@ -5100,7 +5100,7 @@
 【政府戶口籍】government census、政府人口普查、（政府+戶口籍）
 【全國戶口籍】national census、全國人口普查、（全國+戶口籍）
 【州戶口籍】state census、州人口普查、（州+戶口籍）
-【戶口籍所予】census data、人口普查數據、（戶口籍+所予）
+【戶口籍所予、戶口籍根據】census data、人口普查數據、（戶口籍+所予/根據）
 【戶口籍紀錄】census record、人口普查記錄、（戶口籍+紀錄）
 【戶口籍報告】census report、人口普查報告、（戶口籍+報告）
 【戶口籍結果】census result、人口普查結果、（戶口籍+結果）
@@ -5726,7 +5726,7 @@
 【統系搜集】systematic collection、系統的收集、（統系+搜集）
 【實效搜集】efficient collection、有效的收集、（實效+搜集）
 【不望報搜集】free collection、免費收集、（不望報+搜集）
-【所予搜集】data collection、數據收集、（所予+搜集）
+【所予搜集、根據搜集】data collection、數據收集、（所予/根據+搜集）
 【棄除品搜集】waste collection、廢物收集、（棄除品+搜集）
 【民聚學館】community college、社區學院、（民聚+學館）
 【地方學館】local college、地方大學、（地方+學館）
@@ -6256,7 +6256,7 @@
 【民人議事會】people's council、人民委員會、（民人+議事會）
 【民人政府】people's government、人民政府、（民人+政府）
 【民人教員】people's teacher、人民教師、（民人+教員）
-【民人民政】people's democracy、人民民主、（民人+民政）
+【民人民政、民人庶建】people's democracy、人民民主、（民人+民政/庶建）
 【民人烈士】People's Heroes、人民英雄、（民人+烈士）
 【民人警察】People's Police、人民警察、（民人+警察）
 【民人教員】people's teacher、人民教師、（民人+教員）
@@ -6363,7 +6363,7 @@
 【效實疇顧】pragmatic consideration、務實的考慮、（效實+疇顧）
 【安全疇顧】safety consideration、安全上的考慮、（安全+疇顧）
 【理說疇顧】theoretical consideration、理論上的考慮、（理說+疇顧）
-【民政憲典】democratic constitution、民主憲法、（民政+憲典）
+【民政憲典、庶建憲典】democratic constitution、民主憲法、（民政/庶建+憲典）
 【新憲典】new constitution、新憲法、（新+憲典）
 【常住憲典】permanent constitution、永久憲法、（常住+憲典）
 【憲典精神】the principles of a constitution、憲法原則、（憲典+精神）
@@ -6570,7 +6570,7 @@
 【拼切慣例】spelling convention、拼寫慣例、（拼切+慣例）
 【修辭慣例】rhetorical convention、修辭的習慣用法、（修辭+慣例）
 【慣例破壞】break with convention、打破習俗、（慣例+破壞）
-【所予轉換】data conversion、數據轉換、（所予+轉換）
+【所予轉換、根據轉換】data conversion、數據轉換、（所予/根據+轉換）
 【功權變化】energy conversion、能量轉化、（功權+變化）
 【絕對篤信】absolutely convinced、絕對信服、（絕對+篤信）
 【完全篤信】completely convinced、完全信服、（完全+篤信）
@@ -6681,7 +6681,7 @@
 【第三世界國家】third-world country、第三世界國家、（第三+世界+國家）
 【貲本主義國家】capitalist country、資本主義國家、（貲本主義+國家）
 【公產主義國家】communist country、共產主義國家、（公產主義+國家）
-【民政國家】democratic country、民主國家、（民政+國家）
+【民政國家、庶建國家】democratic country、民主國家、（民政/庶建+國家）
 【社會主義國家】socialist country、社會主義國家、（社會主義+國家）
 【舊教國家】catholic country、天主教國家、（舊教+國家）
 【回教國家】islamic country、伊斯蘭教國家、（回教+國家）
@@ -7086,7 +7086,7 @@
 【顧客饜足】customer satisfaction、客戶滿意、（顧客+饜足）
 【顧客之忠悃】customer loyalty、客戶的忠誠、（顧客+忠悃）
 【顧客熱線】customer hotline、客戶熱線、（顧客+熱+線）
-【顧客所予】customer data、客戶數據、（顧客+所予）
+【顧客所予、顧客根據】customer data、客戶數據、（顧客+所予/根據）
 【顧客信息】customer information、客戶信息、（顧客+信息）
 【顧客紀錄】customer records、客戶記錄、（顧客+紀錄）
 【顧客根柢】customer base、客戶基礎、（顧客+根柢）
@@ -7192,30 +7192,30 @@
 【公眾危險】public danger、對公眾的危險、（公眾+危險）
 【危險方域】danger area、危險區、（危險+方域）
 【政治上危險】politically dangerous、有政治風險、（政治+危險）
-【生所予】raw data、原始數據、（生+所予）
-【事實所予】factual data、事實數據、（事實+所予）
-【指碼所予】digital data、數字化數據、（指碼+所予）
-【歷驗所予】empirical data、實證性數據、（歷驗+所予）
-【號碼所予】numerical data、數字數據、（號碼+所予）
-【觀察所予】observational data、觀測數據、（觀察+所予）
-【定量所予】quantitative data、量化數據、（定量+所予）
-【科學所予】scientific data、科學數據、（科學+所予）
-【時勢所予】environmental data、環境數據、（時勢+所予）
-【度支所予】financial data、財政數據、（度支+所予）
-【種德所予】genetic data、基因數據、（種德+所予）
-【地質所予】geological data、地質數據、（地質+所予）
-【歷史所予】historical data、歷史數據、（歷史+所予）
-【專門所予】technical data、技術數據、（專門+所予）
-【所予儲偫】data storage、數據存儲、（所予+儲偫）
-【所予交換】data exchange、數據交換、（所予+交換）
-【所予流動】data stream、數據流、（所予+流動）
-【所予運輸】data transfer、數據傳送、（所予+運輸）
-【所予保護】data protection、數據保護、（所予+保護）
-【所予損失】data loss、數據丟失、（所予+損失）
-【所予源】data source、數據來源、（所予+源）
-【所予總匯】data center、數據中心、（所予+總匯）
-【所予服務】data service、數據服務、（所予+服務）
-【所予之制】data system、數據系統、（所予+制）
+【生所予、生根據】raw data、原始數據、（生+所予/根據）
+【事實所予、事實根據】factual data、事實數據、（事實+所予/根據）
+【指碼所予、指碼根據】digital data、數字化數據、（指碼+所予/根據）
+【歷驗所予、歷驗根據】empirical data、實證性數據、（歷驗+所予/根據）
+【號碼所予、號碼根據】numerical data、數字數據、（號碼+所予/根據）
+【觀察所予、觀察根據】observational data、觀測數據、（觀察+所予/根據）
+【定量所予、定量根據】quantitative data、量化數據、（定量+所予/根據）
+【科學所予、科學根據】scientific data、科學數據、（科學+所予/根據）
+【時勢所予、時勢根據】environmental data、環境數據、（時勢+所予/根據）
+【度支所予、度支根據】financial data、財政數據、（度支+所予/根據）
+【種德所予、種德根據】genetic data、基因數據、（種德+所予/根據）
+【地質所予、地質根據】geological data、地質數據、（地質+所予/根據）
+【歷史所予、歷史根據】historical data、歷史數據、（歷史+所予/根據）
+【專門所予、專門根據】technical data、技術數據、（專門+所予/根據）
+【所予儲偫、根據儲偫】data storage、數據存儲、（所予/根據+儲偫）
+【所予交換、根據交換】data exchange、數據交換、（所予/根據+交換）
+【所予流動、根據流動】data stream、數據流、（所予/根據+流動）
+【所予運輸、根據運輸】data transfer、數據傳送、（所予/根據+運輸）
+【所予保護、根據保護】data protection、數據保護、（所予/根據+保護）
+【所予損失、根據損失】data loss、數據丟失、（所予/根據+損失）
+【所予源、根據源】data source、數據來源、（所予/根據+源）
+【所予總匯、根據總匯】data center、數據中心、（所予/根據+總匯）
+【所予服務、根據時令】data service、數據服務、（所予/根據+服務）
+【所予之制、根據之制】data system、數據系統、（所予/根據+制）
 【冠毒】coronavirus、冠狀病毒、（冠+毒）
 【實效日子】effective date、生效日期、（實效+日子）
 【交給日子】delivery date、交付日期、（交給+日子）
