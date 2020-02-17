@@ -1,7 +1,7 @@
 《推訂嚴譯&部定詞中英對照表》
 例言：
-一、表中名詞，取諸牛津英文綴合字典Oxford Collocations Dictionary、有道字典Youdao，而以牛津書為多。
-一、中文譯語，主用部定詞，部定之外參用嚴譯，不容更定。如採近譯，則概從去取日譯之法。
+一、表中名詞，取諸牛津《英文綴合字典》Oxford Collocations Dictionary、有道字典Youdao，而以牛津書為多。
+一、中文譯語，主用部定詞，部定之外參用嚴譯，不容更定。如採近譯，則概從去取東譯之法。
 一、後出之名為嚴譯未載者，則搜索嚴氏文辭及古義，依據新說而酌訂之，並註明理由。
 一、中西文法不同，行文可隨地變化，如「畜玩保險」，常語以「畜玩之保險、保畜玩險」代之。
 一、本義以外，視所居之職如何，酌加「上、之、性、使、各、化、以」諸字，又「者、所」等，視上下文而定。
@@ -238,8 +238,12 @@
 【一亙】one dimension、一維、一次元、（一+亙）
 【二亙】two dimension、二維、二次元、（二+亙）
 【四亙】four dimensional、四維、四次元、（四+亙）
-【四亙空間】fourth dimension、四維空間、（四+亙+空間）
-【時間之亙】time dimension、時間維度、（時間+亙）
+【第四亙】fourth dimension、第四維、（第四+亙）
+【第二亙】second dimension、第二維、（第二+亙）
+【第三亙】third dimension、第三維、（第三+亙）
+【物理亙】physical dimension、物理維度、（物理+亙）
+【時間亙】time dimension、時間維度、（時間+亙）
+【空間亙】space dimension、空間維度、（空間+亙）
 【金類本德】metal properties、金屬特性、（金類+本德）
 【志向本德】object properties、對象屬性、（志向+本德）
 【致害之空間】noxious space、有害空間、有毒空間、（致害+空間）
@@ -2115,7 +2119,7 @@
 【完足量】sufficient quantity、足夠量、（完足+量）
 【足證】full proof、充分證明、（足+證）
 【科學篡義】science fiction、科學幻想、科幻、（科學+篡義）
-【種人論派】nationalism、racialism、racism、民族主義、種族主義、（種人+論派）
+【種族論派】nationalism、racialism、racism、民族主義、種族主義、（種族+論派）
 【民族之制】clan system、宗族制度、（民族+制）
 【民族天演】the development of the clan、宗族發展、（民族+天演）
 【民族教育】patriarchal clan education、宗族教育、（民族+教育）
@@ -3475,7 +3479,8 @@
 【盡然可笑】fairly amusing、相當好笑、（盡然+可笑）
 【甚可笑】very amusing、非常好笑、（甚+可笑）
 【特別可笑】particularly amusing、特別好笑、（特別+可笑）
-【民等性、民等之異】class nature、class difference、階級性、（民等+性、民等+異）
+【民等性】class nature、階級性、（民等+性）
+【民等差別】class difference、階級差別、（民等+差別）
 【主觀力行性】subjective activity、主觀能動性、（主觀+力行+性）
 【歷史前定】historical necessity、歷史必然性、（歷史+前定）
 【良引喻】good analogy、不錯的類比、（良+引喻）
@@ -7568,3 +7573,63 @@
 【傳狀字典】biographical dictionary、傳記詞典、（傳狀+字典）
 【智環字典】encyclopedic dictionary、百科詞典、（智環+字典）
 【醫學字典】medical dictionary、醫學詞典、（醫學+字典）
+【佳食品】good diet、良好的飲食、（佳+食品）
+【宜人食品】healthy diet、健康的飲食、（宜人+食品）
+【滋養食品】nutritious diet、營養的飲食、（滋養+食品）
+【平衡食品】balanced diet、均衡的飲食、（平衡+食品）
+【惡食品】good diet、糟糕的飲食、（惡+食品）
+【不宜人食品】unhealthy diet、不健康的飲食、（不宜人+食品）
+【大宗食品】staple diet、主要食物、（大宗+食品）
+【美國食品】American diet、美國飲食、（美國+食品）
+【地中海食品】Mediterranean diet、地中海飲食、（地中海+食品）
+【泰西食品】western diet、西方飲食、（泰西+食品）
+【黃金旬年】Golden Decade、黃金十年、金色十年、（黃金+旬年）
+【根柢之差別】basic difference、基本的差別、（根柢+差別）
+【明瞭之差別】clear difference、明顯的不同、（明瞭+差別）
+【國家之差別】national difference、國家差別、（國家+差別）
+【儲能差別】potential difference、潛在的差別、（儲能+差別）
+【物德差別】qualitative difference、質的差別、（物德+差別）
+【統計差別】statistical difference、統計差別、（統計+差別）
+【年齒差別】age difference、年齡差別、（年齒+差別）
+【種人差別】ethnic difference、民族差異、（種人+差別）
+【屬之差別】gender difference、性別差異、（屬+差別）
+【種德差別】genetic difference、遺傳差異、（種德+差別）
+【形氣差別】physical difference、身體差別、（形氣+差別）
+【心理差別】psychological difference、心理差異、（心理+差別）
+【種族差別】racial difference、種族差別、（種族+差別）
+【體之差別】sex difference、兩性差異、（體+差別）
+【人羣差別】social difference、社會差異、（人羣+差別）
+【歷史差別】historical difference、歷史差異、（歷史+差別）
+【政治差別】political difference、政治差異、（政治+差別）
+【構造差別】structural difference、結構差異、（構造+差別）
+【完全消化】fully digest、完全消化、（完全+消化）
+【一部消化】partially digest、部分消化、（一部+消化）
+【二進法之指碼】binary digit、二進制數字、（二進法+指碼）
+【十進法之指碼】decimal digit、十進制數字、（十進法+指碼）
+【人類雙引辭】human dilemma、人類的兩難困境、（人類+雙引辭）
+【箇人雙引辭】personal dilemma、個人的左右為難、（箇人+雙引辭）
+【倫理雙引辭】ethical dilemma、倫理上難以取捨、（倫理+雙引辭）
+【道德雙引辭】moral dilemma、道德上左右為難、（道德+雙引辭）
+【人羣雙引辭】social dilemma、社會的窘境、（人羣+雙引辭）
+【政策雙引辭】policy dilemma、政策上的兩難困境、（政策+雙引辭）
+【政治雙引辭】political dilemma、政治上的困境、（政治+雙引辭）
+【揭桓之亙】crucial dimension、至關重要的層面、（揭桓+亙）
+【全地之亙】global dimension、全球角度、（全地+亙）
+【國際之亙】international dimension、國際角度、（國際+亙）
+【地方之亙】local dimension、地方層面、（地方+亙）
+【國家之亙】national dimension、國家角度、（國家+亙）
+【美學之亙】aesthetic dimension、審美角度、（美學+亙）
+【民等之亙】class dimension、階級角度、（民等+亙）
+【教化之亙】cultural dimension、文化方面、（教化+亙）
+【生計之亙】economic dimension、經濟方面、（生計+亙）
+【心感之亙】emotional dimension、情感方面、（心感+亙）
+【倫理之亙】ethical dimension、倫理角度、（倫理+亙）
+【歷史之亙】historical dimension、歷史角度、（歷史+亙）
+【人類之亙】human dimension、人的角度、（人類+亙）
+【道德之亙】moral dimension、道德角度、（道德+亙）
+【箇人之亙】personal dimension、個人層面、（箇人+亙）
+【政治之亙】political dimension、政治角度、（政治+亙）
+【心理之亙】psychological dimension、心理層面、（心理+亙）
+【教宗之亙】religious dimension、宗教層面、（教宗+亙）
+【人羣之亙】social dimension、社會角度、（人羣+亙）
+【民聚傳染】community acquired infection、社區感染、（民聚+傳染）
