@@ -351,7 +351,7 @@
 【利源管理】resources management、資源管理、資源治理、（利源+管理）
 【物質利源】material resources、物質資源、（物質+利源）
 【森林利源】forest resources、森林資源、（森林+利源）
-【利源分俵】allocation of resources、資源配置、資源分配、（利源+分俵）
+【利源份俵】allocation of resources、資源配置、資源分配、（利源+份俵）
 【教育利源】educational resources、教育資源、（教育+利源）
 【武裝勢力】armed force、武裝力量、（武裝+勢力）
 【翕收功權】absorb energy、吸收能量、（翕收+功權）
@@ -391,7 +391,7 @@
 【售賣之儲能】sales potential、銷售潛力、推銷潛力、（售賣+儲能）
 【演進之儲能】development potential、發展潛力、（演進+儲能）
 【儲值】potential value、潛在價值、（儲+值）
-【電勢分俵】potential distribution、電位分佈、（電勢+分俵）
+【電勢份俵】potential distribution、電位分佈、（電勢+份俵）
 【專門變遷】technological revolution、科技革命、技術革命、（專門+變遷）
 【國羣變革】social revolution、社會革命、（國羣+變革）
 【暴戾革命】violent revolution、暴力革命、（暴戾+革命）
@@ -589,7 +589,7 @@
 【國內總殖】GDP、Gross Domestic Product、國內生產總值、（國內+總+殖）
 【濫用藥品】drug abuse、藥物濫用、（濫用+藥品）
 【視待式】conditional expression、條件表達式、（視待+式）
-【視待分俵】conditional distribution、條件分配、（視待+分俵）
+【視待份俵】conditional distribution、條件分配、（視待+份俵）
 【視待匯萃】conditional convergence、條件收斂、（視待+匯萃）
 【高準力】high accuracy、高準確度、（高+準力）
 【量法之準力】measurement accuracy、measuring accuracy、測量精度、（量法+準力）
@@ -4107,7 +4107,7 @@
 【電功權】electric energy、電能、（電+功權）
 【東京電能】Tokyo Electric Power、東京電力、（東京+電能）
 【電能學校】electric power school、電力學校、（電能+學校）
-【電能分俵】Electric power distribution、電力分配、（電能+分俵）
+【電能份俵】Electric power distribution、電力分配、（電能+份俵）
 【高麗亞電能】Korea Electric Power、韓國電力、（高麗亞+電能）
 【美國電能】American Electric Power、美國電力、（美國+電能）
 【電能設置】electric power equipment、電力設備、（電能+設置）
@@ -4567,7 +4567,7 @@
 【預算經費】budget expenditure、預算支出、（預算+經費）
 【預算餘剩】budget surplus、預算盈餘、（預算+餘剩）
 【預算前畫】budget plans、預算計劃、（預算+前畫）
-【預算分俵】budget allocation、預算撥款、（預算+分俵）
+【預算份俵】budget allocation、預算撥款、（預算+份俵）
 【預算危局、預算轉極】budget crisis、預算危機、（預算+危局/轉極）
 【預算董事】budget director、預算主管、（預算+董事）
 【宿留容量】retention volume、滯留量、（宿留+容量）
@@ -7702,3 +7702,75 @@
 【施行專門】application technology、應用技術、（施行+專門）
 【施行行程】application process、應用進程、（施行+行程）
 【施行研究】application research、應用研究、（施行+研究）
+【完全失望】complete disappointment、徹底失望、（完全+失望）
+【強否惡】strong disapproval、強烈的反對、（強+否惡）
+【大災害】big disaster、大災禍、（大+災害）
+【全地災害】global disaster、全球性災難、（全地+災害）
+【國家災害】international disaster、國家的災難、（國家+災害）
+【自然災害】natural disaster、自然災害、（自然+災害）
+【空中災害】air disaster、空難、（空中+災害）
+【核災害】nuclear disaster、核災難、（核+災害）
+【生計災害】economic disaster、經濟災難、（生計+災害）
+【度支災害】financial disaster、金融災難、（度支+災害）
+【人羣災害】social disaster、社會災難、（人羣+災害）
+【箇人災害】personal disaster、個人災難、（箇人+災害）
+【完全解放】absolute discharge、無條件釋放、（完全+解放）
+【視待解放】conditional discharge、有條件釋放、（視待+解放）
+【正式解放】formally discharge、正式釋放、（正式+解放）
+【良繕性】good discipline、良好的自制力、（良+繕性）
+【箇人繕性】personal discipline、自律、（箇人+繕性）
+【心之繕性】mental discipline、心理約束、（心+繕性）
+【身之繕性】physical discipline、身體約束、（身+繕性）
+【營業干涉】business discipline、經營管理、（營業+干涉）
+【商業干涉】commercial discipline、商業約束、（商業+干涉）
+【度支干涉】financial discipline、財政約束、（度支+干涉）
+【財政干涉】fiscal discipline、財政控制、（財政+干涉）
+【實業干涉】industrial discipline、工業控制、（實業+干涉）
+【市場干涉】market discipline、市場控制、（市場+干涉）
+【泉幣干涉】monetary discipline、貨幣控制、（泉幣+干涉）
+【完全發表】fully disclose、完全透露、（完全+發表）
+【自願發表】voluntary disclose、自願透露、（自願+發表）
+【內界不和】internal discord、內部的不和、（內界+不和）
+【家庭不和】family discord、家庭不和睦、（家庭+不和）
+【關係不和】relationship discord、關係不和睦、（關係+不和）
+【政治不和】poitical discord、政治上的不和、（政治+不和）
+【人羣不和】social discord、社會上的不和、（人羣+不和）
+【不和之源】source of discord、不和的根源、（不和+源）
+【大扣】big discount、極大的優惠、（大+扣）
+【特扣】special discount、特惠、（特+扣）
+【曹郎扣頭】staff discount、員工折扣、（曹郎+扣頭）
+【羣扣】group discount、團體折扣、（羣+扣）
+【現銀扣頭】cash discount、現金折扣、（現銀+扣頭）
+【價扣】price discount、價格折扣、（價+扣）
+【扣頭票】discount card、打折卡、（扣頭+票）
+【扣頭前畫】discount program、優惠方案、（扣頭+前畫）
+【扣頭價】discount price、優惠價、（扣頭+價）
+【貼兌率】discount rate、貼現率、（貼兌+率）
+【扣頭店】discount shop、折扣商店、（扣頭+店）
+【毒之鑿空】discoverer of the virus、病毒發現者、（毒+鑿空，勝爲士按：鑿空，一譯發見人）
+【大發明】big discovery、大發現、（大+發明）
+【新發明】new discovery、新發現、（新+發明）
+【博古學之發明】archaeological discovery、考古發現、（博古學+發明）
+【醫學發明】medical discovery、醫學發現、（醫學+發明）
+【藥品發明】drug discovery、藥物發現、（藥品+發明）
+【箇人發明】personal discovery、個人的發現、（箇人+發明）
+【發明行程】process of discovery、發現過程、（發明+行程）
+【正式討論】formal discussion、正式討論、（正式+討論）
+【非正式討論】informal discussion、非正式討論、（非+正式+討論）
+【雙方討論】bilateral discussion、雙邊磋商、（雙方+討論）
+【建設之討論】constructive discussion、建設性的討論、（建設+討論）
+【披評之討論】critical discussion、批判性的討論、（披評+討論）
+【學術之討論】academic discussion、學術討論、（學術+討論）
+【哲學之討論】philosophical discussion、哲學討論、（哲學+討論）
+【專門之討論】technical discussion、技術研討、（專門+討論）
+【理說之討論】theoretical discussion、理論上的討論、（理說+討論）
+【政治討論】political discussion、政治討論、（政治+討論）
+【傳染之病】infectious disease、傳染病、（傳染+病）
+【肖親之病】hereditary disease、遺傳病、（肖親+病）
+【幼孩之病】childhood disease、兒童疾病、（幼孩+病）
+【執業病】occupational disease、職業病、（執業+病）
+【心病】mental disease、精神病、（心+病）
+【牝牡之病】sexually disease、性傳播疾病、（牝牡+病）
+【癘疫乍起】outbreak of disease、疾病的爆發、（癘疫+乍起）
+【國家之大垢】national disgrace、國家的恥辱、（國家+大垢）
+【公眾之大垢】public disgrace、公眾的恥辱、（公眾+大垢）
