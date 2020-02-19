@@ -8,7 +8,7 @@
 一、學語以外，或變譯達恉，若「箇人」改言「小己、私」之類，不必株守，本表所定，以對譯應有者為斷。
 一、稱名有簡略、用典、顛倒、避諱、變文、互辭、連及、偏義云云，皆著述所經見。神而明之，是在用者，本表不收。
 一、凡新名轉音，概從嚴譯定例，不雅馴則酌改，如「卡」改譯「加、嘉、喀」等。
-（勝爲士按：下表先列新譯，次英文，次通語，次理由。新譯不可依通語索解。）
+（勝爲士按：下表先列新譯，次英文，次通語，次理由。新譯不可依通語索解，文法亦略有不同。）
 正文：
 【工群】industrial society、工業社會、（工+群）
 【政界危局、政界轉極】political crisis、政治危機、（政界+危局/轉極，勝爲士按：轉極，言事極而轉也）
@@ -285,7 +285,7 @@
 【生計上之蛻嬗】transition economy、轉軌經濟、（生計+蛻嬗）
 【橢圜曲線】elliptic curve、橢圓曲線、（橢圜+曲線）
 【進長曲線】growth curve、生長曲線、（進長+曲線）
-【份俵曲線】distribution curve、分佈曲線、分配曲線、（份俵+曲線，勝爲士按：份俵，一譯分布）
+【分俵曲線】distribution curve、分佈曲線、分配曲線、（分俵+曲線，勝爲士按：分俵，一譯分布）
 【民政社會主義、庶建均富】democratic socialism、民主社會主義、（民政/庶建+社會主義/均富，勝爲士按：均富，即均貧富）
 【烏托邦社會主義】utopian socialism、空想社會主義、（烏托邦+社會主義）
 【國民社會主義】national socialism、國家社會主義、民族社會主義、（國民+社會主義）
@@ -352,7 +352,7 @@
 【利源管理】resources management、資源管理、資源治理、（利源+管理）
 【物質利源】material resources、物質資源、（物質+利源）
 【森林利源】forest resources、森林資源、（森林+利源）
-【利源份俵】allocation of resources、資源配置、資源分配、（利源+份俵）
+【利源分俵】allocation of resources、資源配置、資源分配、（利源+分俵）
 【教育利源】educational resources、教育資源、（教育+利源）
 【武裝勢力】armed force、武裝力量、（武裝+勢力）
 【翕收功權】absorb energy、吸收能量、（翕收+功權）
@@ -392,7 +392,7 @@
 【售賣之儲能】sales potential、銷售潛力、推銷潛力、（售賣+儲能）
 【演進之儲能】development potential、發展潛力、（演進+儲能）
 【儲值】potential value、潛在價值、（儲+值）
-【電勢份俵】potential distribution、電位分佈、（電勢+份俵）
+【電勢分俵】potential distribution、電位分佈、（電勢+分俵）
 【專門變遷】technological revolution、科技革命、技術革命、（專門+變遷）
 【國羣變革】social revolution、社會革命、（國羣+變革）
 【暴戾革命】violent revolution、暴力革命、（暴戾+革命）
@@ -590,7 +590,7 @@
 【國內總殖】GDP、Gross Domestic Product、國內生產總值、（國內+總+殖）
 【濫用藥品】drug abuse、藥物濫用、（濫用+藥品）
 【視待式】conditional expression、條件表達式、（視待+式）
-【視待份俵】conditional distribution、條件分配、（視待+份俵）
+【視待分俵】conditional distribution、條件分配、（視待+分俵）
 【視待匯萃】conditional convergence、條件收斂、（視待+匯萃）
 【高準力】high accuracy、高準確度、（高+準力）
 【量法之準力】measurement accuracy、measuring accuracy、測量精度、（量法+準力）
@@ -4108,7 +4108,7 @@
 【電功權】electric energy、電能、（電+功權）
 【東京電能】Tokyo Electric Power、東京電力、（東京+電能）
 【電能學校】electric power school、電力學校、（電能+學校）
-【電能份俵】Electric power distribution、電力分配、（電能+份俵）
+【電能分俵】Electric power distribution、電力分配、（電能+分俵）
 【高麗亞電能】Korea Electric Power、韓國電力、（高麗亞+電能）
 【美國電能】American Electric Power、美國電力、（美國+電能）
 【電能設置】electric power equipment、電力設備、（電能+設置）
@@ -4568,7 +4568,7 @@
 【預算經費】budget expenditure、預算支出、（預算+經費）
 【預算餘剩】budget surplus、預算盈餘、（預算+餘剩）
 【預算前畫】budget plans、預算計劃、（預算+前畫）
-【預算份俵】budget allocation、預算撥款、（預算+份俵）
+【預算分俵】budget allocation、預算撥款、（預算+分俵）
 【預算危局、預算轉極】budget crisis、預算危機、（預算+危局/轉極）
 【預算董事】budget director、預算主管、（預算+董事）
 【宿留容量】retention volume、滯留量、（宿留+容量）
@@ -7780,3 +7780,65 @@
 【市場之不誠】market dishonesty、市場不當行為、（市場+不誠）
 【不忠悃之行為】act of disloyalty、不忠行為、（不忠悃+行為）
 【自動罷免】automatic dismissal、自動免職、（自動+罷免）
+【輿地之分散】geographically disperse、地理上分散、（輿地+分散）
+【空間之分散】spatially disperse、空間上分散、（空間+分散）
+【神之不懌】divine displeasure、神靈的不悅、（神+不懌）
+【安全措置】safe disposal、安全處理、（安全+措置）
+【骫法措置】illegal disposal、非法處理、（骫法+措置）
+【終極措置】ultimate disposal、最終的處理、（終極+措置）
+【棄除品措置】waste disposal、垃圾處理、（棄除品+措置）
+【措置基地】disposal site、處理場、（措置+基地）
+【措置方法】disposal method、處理方法、（措置+方法）
+【措置統系】disposal system、處理系統、（措置+統系）
+【措置公司】disposal company、處理公司、（措置+公司）
+【和氣之品質】friendly disposition、友善的性情、（和氣+品質）
+【愷悌之品質】cheerful disposition、快樂的性情、（愷悌+品質）
+【斯文之品質】gentle disposition、溫和的性情、（斯文+品質）
+【鬱性之品質】melancholic disposition、憂鬱的性情、（鬱性+品質）
+【肖親品質】genetic disposition、遺傳特性、（肖親+品質）
+【天然品質】natural disposition、天性、（天然+品質）
+【大爭執】major dispute、重大的爭執、（大+爭執）
+【小爭執】minor dispute、小的爭執、（小+爭執）
+【國際爭執】international dispute、國際爭端、（國際+爭執）
+【地方爭執】local dispute、地方爭端、（地方+爭執）
+【內界爭執】internal dispute、內部爭端、（內界+爭執）
+【家庭爭執】domestic dispute、家庭糾紛、（家庭+爭執）
+【疆界爭執】boundary dispute、邊界爭端、（疆界+爭執）
+【土地爭執】land dispute、土地爭端、（土地+爭執）
+【領土爭執】territorial dispute、領土爭端、（領土+爭執）
+【法權爭執】jurisdiction dispute、管轄權、（法權+爭執）
+【法律爭執】legal dispute、法律糾紛、（法律+爭執）
+【契約爭執】contract dispute、合同糾紛、（契約+爭執）
+【專利爭執】patent dispute、專利糾紛、（專利+爭執）
+【政治爭執】political dispute、政治爭端、（政治+爭執）
+【商業爭執】commercial dispute、商業糾紛、（商業+爭執）
+【度支爭執】financial dispute、財務糾紛、（度支+爭執）
+【貿易爭執】trade dispute、貿易爭端、（貿易+爭執）
+【主義爭執】doctrinal dispute、教義爭論、（主義+爭執）
+【教宗爭執】religious dispute、宗教爭論、（教宗+爭執）
+【完全溶解】completely dissolve、完全溶解、（完全+溶解）
+【浸假溶解】gradually dissolve、逐漸溶解、（浸假+溶解）
+【正式解散】formally dissolve、正式解除、（正式+解散）
+【輿地之距離】geographic distance、地理距離、（輿地+距離）
+【形氣之距離】physical distance、物理距離、（形氣+距離）
+【心感困難】emotional distress、感情上的痛苦、（心感+困難）
+【心之困難】mental distress、精神痛苦、（心+困難）
+【箇人困難】personal distress、個人的憂傷、（箇人+困難）
+【生計困難】economic distress、經濟困境、（生計+困難）
+【度支困難】financial distress、財政困難、（度支+困難）
+【人羣困難】social distress、社會困境、（人羣+困難）
+【均平之分俵】equal distribution、均等分配、（均平+分俵，勝爲士按：分布、散步，變文；分財、分利，變文）
+【對待分布】relative distribution、相對分佈、（對待+分布）
+【輿地分俵】geographical distribution、地理分佈、（輿地+分俵）
+【戶口分俵】population distribution、人口分佈、（戶口+分俵）
+【人羣分俵】social distribution、社會分佈、（人羣+分俵）
+【無定分布】random distribution、隨機分佈、（無定+分布）
+【雙項分布】binomial distribution、二項分佈、（雙項+分布）
+【週數分布】frequency distribution、頻數分佈、（週數+分布）
+【全地分配】global distribution、全球配送、（全地+分配，勝爲士按：分配、配分，顛倒；分配、分俵，變文）
+【國際分配】international distribution、國際配送、（國際+分配）
+【全國分配】national distribution、全國配送、（全國+分配）
+【電氣分配】electricity distribution、配電、（電氣+分配）
+【食品分配】food distribution、食物分發、（食品+分配）
+【燃料分配】fuel distribution、燃料分配、（燃料+分配）
+【土地分配】land distribution、土地分配、（土地+分配）
