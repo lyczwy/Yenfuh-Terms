@@ -161,7 +161,7 @@
 【泉幣妄塵】money illusion、金錢幻覺、貨幣幻覺、（泉幣+妄塵）
 【驛車妄塵】station illusion、站台幻覺、（驛+車+妄塵，勝爲士按：觀車所得，故改稱驛車）
 【科學發明】scientific discovery、科學發現、（科學+發明）
-【科學理說】scientific theories、科學理論、（科學+理說）
+【科學理說】scientific theories、科學理論、（科學+理說，勝爲士按：理說，他處或可譯學說、學理，或僅譯一說字、理字）
 【科學變革】scientific revolution、科學革命、（科學+變革）
 【《科學變革之構造》】The Structure of Scientific Revolutions、《科學革命的結構》、（科學+變革+構造）
 【男女歧視】sexual discrimination、性別歧視、（男女+歧視）
@@ -459,7 +459,7 @@
 【朝鮮民政民人公治國】The Democratic People's Republic of Korea、朝鮮民主主義人民共和國、（朝鮮+民政+民人+公治國）
 【動物之益】animal welfare、動物福利、動物福祉、（動物+益）
 【善生計學】welfare economics、福利經濟學、（善生+計學）
-【善生帑項】welfare fund、福利基金、（善生+帑項）
+【善生帑項】welfare fund、福利基金、（善生+帑項，勝爲士按：帑項，或僅譯一款字）
 【善生給予】welfare payments、福利性支出、福利金、（善生+給予）
 【善生之制】welfare system、福利體系、福利制度、（善生+制）
 【善生之便】welfare facilities、福利設施、（善生+便）
@@ -916,7 +916,7 @@
 【概念演進】concept development、概念發展、（概念+演進）
 【概念美術】concept art、概念藝術、（概念+美術）
 【簿記概念】accounting concept、會計觀念、（簿記+概念）
-【概念組織】concept formation、概念形成、（概念+組織）
+【概念組織、概念之成立】concept formation、概念形成、（概念+組織/成立，勝爲士按：組織，他處或可譯成立）
 【新觀念】new idea、新理念、（新+觀念）
 【管理觀念】management idea、經營理念、管理理念、（管理+觀念）
 【一般觀念】general idea、一般概念、（一般+觀念）
@@ -1191,7 +1191,7 @@
 【時間久度】duration of time、持續時間、（時間+久度）
 【匐匍浮溢】creeping inflation、爬行式通貨膨脹、漸升通脹、（匐匍+浮溢）
 【低浮溢】low Inflation、低通貨膨脹、（低+浮溢）
-【豫期浮溢】expected inflation、預期通貨膨脹率、（豫期+浮溢）
+【期望浮溢】expected inflation、預期通貨膨脹率、（期望+浮溢）
 【浮溢之理】Inflation theory、通貨膨脹論、（浮溢+理）
 【浮溢率】inflation rate、通貨膨脹率、（浮溢+率）
 【物價浮溢】price inflation、物價膨脹、（物價+浮溢）
@@ -2823,7 +2823,7 @@
 【客載驛】passenger station、客運站、（客載+驛）
 【客載紀錄】passenger records、客運記錄、（客載+紀錄）
 【假節用】false economy、虛假節約、（假+節用）
-【燃料之節用】fuel economy、燃油節約、（燃料+節用）
+【燃料之節用、燃材之節用】fuel economy、燃油節約、（燃料/燃材+節用）
 【品變】qualitative change、質變、（品+變）
 【一部品變】partial qualitative change、部分質變、（一部+品+變）
 【品變限格】qualitative change condition、質變條件、（品+變+限格）
@@ -4859,7 +4859,7 @@
 【最大容量】maximum capacity、最大容量、（最大+容量）
 【積聚量】storage capacity、儲存容量、（積聚+量）
 【肺量】lung capacity、肺活量、（肺+量）
-【燃料容量】fuel capacity、燃料容量、（燃料+容量）
+【燃料容量、燃材容量】fuel capacity、燃料容量、（燃料/燃材+容量）
 【投資貲本】investment capital、（投資+貲本）
 【股分貲本】share capital、股份資本、（股分+貲本）
 【人源貲本】human capital、人力資本、（人源+貲本）
@@ -5537,7 +5537,7 @@
 【文明繁盛】civilization flourish、文明繁榮、（文明+繁盛）
 【文明傾亡】civilization decline、文明衰落、（文明+傾亡）
 【法許索償】legal claim、法律訴求、法定索取權、（法許+索償）
-【欺罔索償】fraudulent claim、欺詐性索賠、（欺罔+索償）
+【欺罔索償、欺詐索償】fraudulent claim、欺詐性索賠、（欺罔/欺詐+索償）
 【不測索償】accident claim、事故索賠、（不測+索償）
 【保險索償】insurance claim、保險索賠、（保險+索償）
 【庸錢索償】wage claim、工資要求、（庸錢+索償）
@@ -6063,7 +6063,7 @@
 【不正之舉動】improper conduct、不適當的行為、（不正+舉動）
 【侵奪之舉動】aggressive conduct、攻擊性行為、（侵奪+舉動）
 【暴戾舉動】violent conduct、暴力行為、（暴戾+舉動）
-【欺罔舉動】fraudulent conduct、欺詐行為、（欺罔+舉動）
+【欺罔舉動、欺詐舉動】fraudulent conduct、欺詐行為、（欺罔/欺詐+舉動）
 【不法舉動】unlawful conduct、非法行為、（不法+舉動）
 【逆性行為】homosexual conduct、同性戀行為、（逆性+行為）
 【箇人行為】personal conduct、個人行為、（箇人+行為）
@@ -6449,7 +6449,7 @@
 【歲銷耗】annual consumption、年消耗量、（歲+銷耗）
 【日銷耗】daily consumption、日消耗量、（日+銷耗）
 【電氣銷耗】electricity consumption、耗電量、（電氣+銷耗）
-【燃料銷耗】fuel consumption、燃料消耗、（燃料+銷耗）
+【燃料銷耗、燃材銷耗】fuel consumption、燃料消耗、（燃料/燃材+銷耗）
 【煤氣銷耗】gas consumption、煤氣消耗、（煤氣+銷耗）
 【煤油銷耗】petrol consumption、石油消耗、（煤油+銷耗）
 【銷耗率】consumption rate、消耗率、（銷耗+率）
@@ -6767,7 +6767,7 @@
 【信用票成交】credit card transaction、信用卡交易、（信用票+成交）
 【信用票借款】credit card loan、信用卡貸款、（信用票+借款）
 【信用票購物】credit card purchases、信用票購物、（信用票+購物）
-【信用票欺罔】credit card fraud、信用卡詐騙、（信用票+欺罔）
+【信用票欺罔、信用票欺詐】credit card fraud、信用卡詐騙、（信用票+欺罔/欺詐）
 【信用票公司】credit card company、信用卡公司、（信用票+公司）
 【異國債主】foreign creditor、外國債權人、（異國+債主）
 【私人債主】private creditor、私人債主、（私人+債主）
@@ -7841,7 +7841,7 @@
 【全國分配】national distribution、全國配送、（全國+分配）
 【電氣分配】electricity distribution、配電、（電氣+分配）
 【食品分配】food distribution、食物分發、（食品+分配）
-【燃料分配】fuel distribution、燃料分配、（燃料+分配）
+【燃料分配、燃材分配】fuel distribution、燃料分配、（燃料/燃材+分配）
 【土地分配】land distribution、土地分配、（土地+分配）
 【遠區】remote district、偏僻地區、（遠+區）
 【專許區】exclusive district、高檔地區、（專許+區）
@@ -8043,7 +8043,7 @@
 【低稅】low duty、低稅、（低+稅）
 【關稅】customs duty、海關關稅、（關+稅）
 【輸出稅】export duty、出口稅、（輸出+稅）
-【燃料稅】fuel duty、燃油稅、（燃料+稅）
+【燃料稅、燃材稅】fuel duty、燃油稅、（燃料/燃材+稅）
 【酒精稅】alcohol duty、酒稅、（酒精+稅）
 【蔫草稅】tobacco duty、煙草稅、（蔫草+稅）
 【私人住宅】private dwelling、私人住宅、（私人+住宅）
@@ -8057,7 +8057,7 @@
 【年營利】annual earning、年收入、（年+營利）
 【小時營利】hourly earning、時薪、（小時+營利）
 【來復營利】weekly earning、周薪、（來復+營利）
-【豫期營利】expected earning、期望的收入、（豫期+營利）
+【期望營利】expected earning、期望的收入、（期望+營利）
 【未來營利】future earning、未來的收入、（未來+營利）
 【前畫營利】projected earning、預計的收入、（前畫+營利）
 【總營利】gross earning、總收入、（總+營利）
@@ -8245,7 +8245,7 @@
 【選舉日子】election date、選舉日期、（選舉+日子）
 【選舉夜】election night、選舉當天晚上、（選舉+夜）
 【選舉期】election period、選舉期、（選舉+期）
-【選舉欺罔】election fraud、選舉舞弊、（選舉+欺罔）
+【選舉欺罔、選舉欺詐】election fraud、選舉舞弊、（選舉+欺罔/欺詐）
 【選舉改革】election reform、選舉改革、（選舉+改革）
 【總統選主】presidential elector、總統選舉人、（總統+選主）
 【民政黨選主】democrat elector、民主黨選民、（民政黨+選主）
@@ -9282,7 +9282,7 @@
 【短期還利】short-term return、短期利潤、（短期+還利）
 【年還利】annual return、年利潤、（年+還利）
 【月還利】monthly return、月利潤、（月+還利）
-【豫期還利】expected return、預期收益、（豫期+還利）
+【期望還利】expected return、預期收益、（期望+還利）
 【儲能還利】potential return、潛在收益、（儲能+還利）
 【保許還利】guarantee return、保證收益、（保許+還利）
 【總還利】gross return、毛利潤、（總+還利）
@@ -9377,3 +9377,163 @@
 【修養店】repair shop、修理店、（修養+店）
 【加非店】coffee shop、咖啡店、（加非+店）
 【店肆襄事】shop assistant、（店肆+襄事）
+【大宇熱心家】space enthusiast、太空探險的熱心支持者、（大宇+熱心家）
+【翰堡熱心家】hamburger enthusiast、漢堡發燒友、（翰堡+熱心家）
+【葡萄酒熱心家】wine enthusiast、葡萄酒愛好者、（葡萄酒+熱心家）
+【熱心家公團】enthusiast community、發燒友社區、（熱心家+公團）
+【戲事調處廷】Court of Arbitration for Sport、CAS、國際體育仲裁法庭、（戲事+調處廷）
+【神宥】divine forgiveness、神的寬恕、（神+宥）
+【尋常形式】common form、常見形式、（尋常+形式）
+【根柢形式】basic form、基本型態、（根柢+形式）
+【單簡形式】simple form、簡單型態、（單簡+形式）
+【錯綜形式】complex form、複雜形態、（錯綜+形式）
+【遺傳形式】traditional form、傳統型態、（遺傳+形式）
+【新形式】new form、新形態、（新+形式）
+【美術形式】art form、藝術形式、（美術+形式）
+【文學形式】literary form、文學形式、（文學+形式）
+【音樂形式】musical form、音樂形式、（音樂+形式）
+【生命形式】life form、生命型態、（生命+形式）
+【指碼形式】digital form、數字形式、（指碼+形式）
+【電子形式】electronic form、電子形式、（電子+形式）
+【表列形式】tabular form、表格形式、（表列+形式）
+【液質形式】liquid form、液態、（液質+形式）
+【物理形式】physical form、物理形態、（物理+形式）
+【政策之成立】policy formation、政策的制定、（政策+成立）
+【家庭組織】family formation、家庭構成、（家庭+組織）
+【人羣組織】social formation、社會結構、（人羣+組織）
+【複雜公式、複雜公詞】complex formula、複雜公式、（複雜+公式/公詞）
+【單簡公式、秘密公詞】simple formula、簡單公式、（單簡+公式/公詞）
+【秘密公式、秘密公詞】secret formula、秘密公式、（秘密+公式/公詞）
+【代數公式、代數公詞】algebraic formula、代數公式、（代數+公式/公詞）
+【數學公式、數學公詞】mathematical formula、數學公式、（數學+公式/公詞）
+【科學公式、科學公詞】scientific formula、科學公式、（科學+公式/公詞）
+【過去半月】past fortnight、過去的兩個星期、（過去+半月）
+【原創業人】original founder、創始人、（原+創業人）
+【公司創業人】company founder、公司創建人、（公司+創業人）
+【城邑之狐】urban fox、城市狐狸、（城邑+狐）
+【鄉間之狐】rural fox、鄉村狐狸、（鄉間+狐）
+【民政舉權】democratic franchise、民主選舉權、（民政+舉權）
+【普徧舉權】universal franchise、普選權、（普徧+舉權）
+【有限舉權】limited franchise、有限選舉權、（有限+舉權）
+【國會舉權】parliamentary franchise、議會選舉權、（國會+舉權）
+【錯綜欺罔、錯綜欺詐】complex fraud、錯綜複雜的詐騙、（錯綜+欺罔/欺詐）
+【出占欺罔、出占欺詐】vote fraud、投票作弊、（出占+欺罔/欺詐）
+【業聯欺罔、業聯欺詐】corporate fraud、公司詐騙、（業聯+欺罔/欺詐）
+【度支欺罔、度支欺詐】financial fraud、財務詐騙、（度支+欺罔/欺詐）
+【保險欺罔、保險欺詐】insurance fraud、保險詐騙、（保險+欺罔/欺詐）
+【證券欺罔、證券欺詐】securities fraud、證券詐騙、（證券+欺罔/欺詐）
+【賦稅欺罔、賦稅欺詐】tax fraud、稅務詐騙、（賦稅+欺罔/欺詐）
+【欺罔案、欺詐案】fraud case、詐騙案件、（欺罔/欺詐+案）
+【完全自繇】complete freedom、完全的自由、（完全+自繇）
+【根柢之自繇】basic freedom、基本的自由、（根柢+自繇）
+【人類自繇】human freedom、人類的自由、（人類+自繇）
+【新自繇】new freedom、新的自由、（新+自繇）
+【美術自繇】artistic freedom、藝術自由、（美術+自繇）
+【思想自繇】intellectual freedom、思想自由、（思想+自繇）
+【政治自繇】political freedom、政治自由、（政治+自繇）
+【輿誦自繇】press freedom、出版自由、（輿誦+自繇）
+【男女自繇】sexual freedom、性自由、（男女+自繇）
+【選擇自繇】freedom of choice、自由選擇權、（選擇+自繇）
+【言詞自繇】freedom of expression、言論自由、（言詞+自繇）
+【空中貨載】air freight、空運貨物、（空中+貨載）
+【洋海貨載】ocean freight、海運貨物、（洋海+貨載）
+【鐵路貨載】railroad freight、鐵路貨運、（鐵路+貨載）
+【道路貨載】road freight、公路貨運、（道路+貨載）
+【貨載車輛】freight wagon、貨運車輛、（貨載+車輛）
+【貨載業】freight industry、貨運業、（貨載+業）
+【貨載使令】freight service、貨運服務、（貨載+使令）
+【預算週數】estimated frequency、估計的頻率、（預算+週數）
+【期望週數】expected frequency、期望的頻率、（期望+週數）
+【相似週數】similar frequency、相似的頻率、（相似+週數）
+【對待週數】relative frequency、相對發生率、（對待+週數）
+【高週數】high frequency、高頻、（高+週數）
+【低週數】low frequency、低頻、（低+週數）
+【射電週數】radio frequency、無線電頻率、（射電+週數，勝爲士按：射電，從近譯）
+【微浪週數】microwave frequency、微波頻率、（微浪+週數）
+【振動週數】vibration frequency、振動頻率、（振動+週數）
+【浪週數】wave frequency、波頻、（浪+週數）
+【信號週數】signal frequency、信號頻率、（信號+週數）
+【內歰力】internal friction、內部摩擦、（內+歰力）
+【真友誼】real friendship、真正的友情、（真+友誼）
+【新友誼】new friendship、新友情、（新+友誼）
+【箇人友誼】personal friendship、私人友誼、（箇人+友誼）
+【公共邊塞】common frontier、共同國界、（公共+邊塞）
+【法班邊塞】franco-spanish frontier、法國-西班牙邊界、（法班+邊塞）
+【邊塞貿易】frontier trade、邊境貿易、（邊塞+貿易）
+【邊塞稅】frontier tax、邊境稅、國境稅、（邊塞+稅）
+【清潔燃料、清潔燃材】clean fuel、清潔燃料、（清潔+燃料/燃材）
+【無煙燃料、無煙燃材】smokeless fuel、無煙燃料、（無煙+燃料/燃材）
+【無鉛燃料、無鉛燃材】unleaded fuel、無鉛燃料、（無鉛+燃料/燃材）
+【殭石燃料、殭石燃材】fossil fuel、化石燃料、（殭石+燃料/燃材）
+【液質燃料、液質燃材】liquid fuel、液體燃料、（液質+燃料/燃材）
+【凝質燃料、凝質燃材】solid fuel、固體燃料、（凝質+燃料/燃材）
+【家庭燃料、家庭燃材】domestic fuel、民用燃料、（家庭+燃料/燃材）
+【航空燃料、航空燃材】aviation fuel、航空燃料、（航空+燃料/燃材）
+【射氣燃料、射氣燃材】jet fuel、噴氣燃料、（射氣+燃料/燃材）
+【燃料單、燃材單】fuel bill、燃料賬單、（燃料/燃材+單）
+【燃料費、燃材費】fuel costs、燃料開支、（燃料/燃材+費）
+【燃料價、燃材價】fuel prices、燃料價格、（燃料/燃材+價）
+【燃料功率、燃材功率】fuel efficiency、燃料效率、（燃料/燃材+功率）
+【燃料供給、燃材供給】fuel supply、燃料供應、（燃料/燃材+供給）
+【燃料表、燃材表】fuel gauge、燃料表、（燃料/燃材+表）
+【燃料抽吸機、燃材抽吸機】fuel pump、燃料泵、（燃料/燃材+抽吸機）
+【燃料電池、燃材電池】fuel cell、燃料電池、（燃料/燃材+電池）
+【燃料油、燃材油】fuel oil、燃料油、（燃料/燃材+油）
+【危險逃犯】dangerous fugitive、危險的逃犯、（危險+逃犯）
+【憑押之履行】order fulfilment、訂單執行情況、（憑押+履行）
+【完全饜足】complete satisfaction、十分滿意、（完全+饜足）
+【交互饜足】mutual satisfaction、相互滿足、（交互+饜足）
+【箇人饜足】personal satisfaction、個人滿足、（箇人+饜足）
+【生活饜足】life satisfaction、生活中的滿足、（生活+饜足）
+【心感饜足】emotional satisfaction、情感滿足、（心感+饜足）
+【婚姻饜足】marital satisfaction、婚姻滿意、（婚姻+饜足）
+【男女饜足】sexual satisfaction、性滿足、（男女+饜足）
+【僱工饜足】employee satisfaction、員工滿意、（僱工+饜足）
+【病人饜足】patient satisfaction、病人滿意、（病人+饜足）
+【饜足率】satisfaction rate、滿意度、（饜足+率）
+【賑濟帑項】relief fund、救濟基金、（賑濟+帑項）
+【國際帑項】international fund、國際基金、（國際+帑項）
+【視待帑項】contingency fund、應急基金、（視待+帑項）
+【預備帑項】reserve fund、準備金、（預備+帑項）
+【仁惠帑項】benevolent fund、慈善基金、（仁惠+帑項）
+【調劑帑項】compensation fund、補償金、賠償基金、（調劑+帑項）
+【保險帑項】insurance fund、保險基金、（保險+帑項）
+【人羣帑項】social fund、社會基金、（人羣+帑項）
+【恩金帑項】pension fund、養老基金、（恩金+帑項）
+【國外帑項】foreign fund、國外基金、（國外+帑項）
+【離岸帑項】offshore fund、海外基金、（離岸+帑項）
+【全地帑項】global fund、全球基金、（全地+帑項）
+【中央帑項】central fund、中央基金、（中央+帑項）
+【帑項持票人】fund holder、基金持有人、（帑項+持票人）
+【帑項理事】fund manager、基金管理人、（帑項+理事）
+【帑項管理】fund management、基金管理、（帑項+管理）
+【帑項執行】fund performance、基金業績、（帑項+執行）
+【帑項值】fund value、基金價值、（帑項+值）
+【有限帑項】limited fund、有限的基金、（有限+帑項）
+【餘剩帑項】surplus fund、剩餘資金、（餘剩+帑項）
+【政府帑項】government fund、政府資金、（政府+帑項）
+【私人帑項】private fund、私人資金、（私人+帑項）
+【公眾帑項】public fund、公共資金、（公眾+帑項）
+【國家帑項】state fund、國有資金、（國家+帑項）
+【教寺帑項】church fund、教會資金、（教寺+帑項）
+【學校帑項】school fund、學校資金、（學校+帑項）
+【彩票帑項】lottery fund、彩票資金、（彩票+帑項）
+【煤爐】coal furnace、燒煤的鍋爐、（煤+爐）
+【電爐】electric furnace、電爐、（電+爐）
+【煤氣爐】gas furnace、燃氣爐、（煤氣+爐）
+【爐房】furnace room、鍋爐房、（爐+房）
+【生計之未來】economic future、經濟前景、（生計+未來）
+【度支之未來】financial future、金融前景、（度支+未來）
+【政治之未來】political future、政治前景、（政治+未來）
+【烏托邦之未來】utopian future、烏托邦式的前景、（烏托邦+未來）
+【弗晰節制】fuzzy control、模糊控制、（弗晰+節制，勝爲士按：弗晰，從近譯）
+【弗晰數學】fuzzy mathematics、模糊數學、（弗晰+數學）
+【弗晰辨學、弗晰名學】fuzzy logic、模糊邏輯、（弗晰+辨學/名學）
+【弗晰理說】fuzzy theory、模糊理論、（弗晰+理說）
+【弗晰總會】fuzzy set、模糊集合、（弗晰+總會）
+【弗晰神經網】fuzzy neural network、模糊神經網絡、（弗晰+神經+網）
+【弗晰統系】fuzzy system、模糊系統、（弗晰+統系）
+【弗晰推論】fuzzy reasoning、模糊推理、（弗晰+推論）
+【弗晰象】fuzzy image、模糊影像、（弗晰+象）
+【弗晰判斷】fuzzy judgment、模糊判斷、（弗晰+判斷）
+【弗晰關係】fuzzy relation、模糊關係、（弗晰+關係）
