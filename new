@@ -345,7 +345,7 @@
 【普通出占】general suffrage、普通選舉權、（普通+出占）
 【成丁出占】manhood suffrage、成年男子選舉權、（成丁+出占，勝爲士按：成丁，一譯成人）
 【強迫出占】compulsory suffrage、強制投票、（強迫+出占）
-【軍器之截留】arms embargo、武器禁運、軍火禁運、（軍器+截留）
+【軍器之截留】arms embargo、武器禁運、軍火禁運、（軍器+截留，勝爲士按：軍器，或僅譯一兵字）
 【石油之截留】oil embargo、石油禁運、（石油+截留）
 【大蕭索】great depression、大蕭條、（大+蕭索）
 【生計蕭索】economic depression、經濟蕭條、（生計+蕭索）
@@ -1201,7 +1201,7 @@
 【股分之取得】share acquisition、股權收購、（股分+取得）
 【土地之取得】land acquisition、土地徵用、（土地+取得）
 【取得費】acquisition cost、取得成本、（取得+費）
-【貲產之取得】acquisition of assets、資產的取得、（貲產+取得）
+【貲產之取得】acquisition of assets、資產的取得、（貲產+取得，勝爲士按：貲，一作資）
 【契約之取得】acquisition agreement、收購協議、（契約+取得）
 【取得價】acquisition price、購置價格、（取得+價）
 【志向語言】object language、對象語言、目標語言、（志向+語言）
@@ -2243,10 +2243,10 @@
 【公眾之否惡】public disapproval、公眾的反對、（公眾+否惡）
 【父母之否惡】parental disapproval、父母的反對、（父母+否惡）
 【否惡率】disapproval rating、反對率、（否惡+率）
-【箇人然喜】personally approve、個人讚同、（箇人+然喜）
-【完全然喜】approve thoroughly、完全讚成、（完全+然喜）
-【高度然喜】approve highly、高度讚成、（高度+然喜）
-【資格之然喜】qualification approve、資格認可、（資格+然喜）
+【箇人認可】personally approve、個人讚同、（箇人+認可）
+【完全認可】approve thoroughly、完全讚成、（完全+認可）
+【高度認可】approve highly、高度讚成、（高度+認可）
+【資格之認可】qualification approve、資格認可、（資格+認可）
 【信用及借款、信借、賒貸】credit and loan、信貸、 （信用/信+借款/借、賒貸）
 【銀行借款】bank loan、銀行信貸、（銀行+借款）
 【賒貸條件】credit terms、信貸條款、（賒貸+條件）
@@ -3485,15 +3485,15 @@
 【民等差別】class difference、階級差別、（民等+差別）
 【主觀力行性】subjective activity、主觀能動性、（主觀+力行+性）
 【歷史前定】historical necessity、歷史必然性、（歷史+前定）
-【良引喻】good analogy、不錯的類比、（良+引喻）
-【劣引喻】bad analogy、糟糕的類比、（劣+引喻）
-【便事之引喻】useful analogy、實用的類比、（便事+引喻）
-【虛妄之引喻】false analogy、錯誤的類比、（虛妄+引喻）
-【單簡之引喻】simple analogy、簡單的類比、（單簡+引喻）
-【歷史引喻】historical analogy、歷史類比、（歷史+引喻）
-【音樂引喻】musical analogy、音樂類比、（音樂+引喻）
-【戲事引喻】sporting analogy、體育類比、（戲事+引喻）
-【引喻之論證】argument by analogy、通過類比得出的論點、（引喻+論證）
+【良引喻、良比例推】good analogy、不錯的類比、（良+引喻/比例推）
+【劣引喻、劣比例推】bad analogy、糟糕的類比、（劣+引喻/比例推）
+【便事之引喻、便事之比例推】useful analogy、實用的類比、（便事+引喻/比例推）
+【虛妄之引喻、虛妄之比例推】false analogy、錯誤的類比、（虛妄+引喻/比例推）
+【單簡之引喻、單簡之比例推】simple analogy、簡單的類比、（單簡+引喻/比例推）
+【歷史引喻、歷史之比例推】historical analogy、歷史類比、（歷史+引喻/比例推）
+【音樂引喻、音樂之比例推】musical analogy、音樂類比、（音樂+引喻/比例推）
+【戲事引喻、戲事之比例推】sporting analogy、體育類比、（戲事+引喻/比例推）
+【引喻之論證、比例推之論證】argument by analogy、通過類比得出的論點、（引喻/比例推+論證，勝爲士按：論證，他處或可譯論辨）
 【披評之分析】critically analyse、批判地分析、（披評+分析）
 【完足之分析】fully analyse、全面地分析、（完足+分析）
 【統系之分析】systematically analyse、系統地分析、（統系+分析）
@@ -3645,7 +3645,7 @@
 【載府認可】written approval、書面批准、（載府+認可）
 【正式認可】formal approval、正式批准、（正式+認可）
 【立法機關認可】legislative approval、立法機構的批准、（立法機關+認可）
-【齊政機關認可】regulatory approval、監管機構的認可、（齊政+機關+認可）
+【齊政機關認可】regulatory approval、監管機構的認可、（齊政+機關+認可，勝爲士按：齊政，或本使之整齊之意定名）
 【董事會認可】board approval、董事會的批准、（董事會+認可）
 【議院認可】congressional approval、國會的批准、（議院+認可）
 【法庭認可】court approval、法庭的批准、（法庭+認可）
@@ -3663,7 +3663,6 @@
 【藥品之認可】drug approval、藥物審批、（藥品+認可）
 【認可行程】approval process、批准過程、（認可+行程）
 【認可率】approval rating、支持率、（認可+率）
-【箇人認可】personally approve、以個人名義批准、（箇人+認可）
 【阿剌伯語】arabic、阿拉伯語、（阿剌伯+語）
 【今世阿剌伯語】modern arabic、現代阿拉伯語、（今世+阿剌伯+語）
 【俸辛之公斷】salary arbitration、薪資仲裁、（俸辛+公斷）
@@ -4865,7 +4864,7 @@
 【人源貲本】human capital、人力資本、（人源+貲本）
 【智識貲本】knowledge capital、知識資本、（智識+貲本）
 【政治貲本】political capital、政治資本、（政治+貲本）
-【貲本資產】capital assets、資本資產、（貲本+資產）
+【貲本貲產】capital assets、資本資產、（貲本+貲產）
 【貲本貨物】capital goods、資本貨物、（貲本+貨物）
 【貲本利源】capital resources、資本資源、（貲本+利源）
 【貲本經費】capital expenditure、資本開支、（貲本+經費）
@@ -6512,7 +6511,7 @@
 【明瞭反對】clear contrast、明顯的差異、（明瞭+反對）
 【強反對】strong contrast、強烈的對比、（強+反對）
 【完全反對】complete contrast、截然不同、（完全+反對）
-【正式呈請】formal application、正式申請、（正式+呈請，勝爲士按：【呈請】通曰申請，部定declare為呈報，今譯呈請，據官話補）
+【正式呈請】formal application、正式申請、（正式+呈請，勝爲士按：呈請，通曰申請，部定declare為呈報，今譯呈請，據官話補）
 【載府呈請】written application、書面申請、（載府+呈請）
 【資格呈請】membership application、入會申請、（資格+呈請）
 【專利呈請】patent application、專利申請、（專利+呈請）
@@ -6520,7 +6519,7 @@
 【呈請費】application fee、申請費、（呈請+費）
 【呈請節次】application procedure、申請步驟、（呈請+節次）
 【呈請行程】application process、申請過程、（呈請+行程）
-【大紏謀】big conspiracy、大陰謀、（大+紏謀，勝爲士按：【紏謀】通曰陰謀、共謀，皆歧惑，今譯紏謀，據官話補）
+【大紏謀】big conspiracy、大陰謀、（大+紏謀，勝爲士按：紏謀，通曰陰謀、共謀，皆歧惑，今譯紏謀，據官話補）
 【政府紏謀】government conspiracy、政府的陰謀、（政府+紏謀）
 【政治紏謀】political conspiracy、政治的陰謀、（政治+紏謀）
 【全地紏謀】global conspiracy、全球的陰謀、（全地+紏謀）
@@ -6876,7 +6875,7 @@
 【政治披評】political critique、政治評論、（政治+披評）
 【後今世論派披評】postmodern critique、後現代主義評論、（後+今世+論派+披評）
 【人羣披評】social critique、社會評論、（人羣+披評）
-【虞衡學】ecology、生態學、（虞衡+學，勝爲士按：【虞衡】通曰生態，則古虞衡志所有事，今譯虞衡學，猶馮相以號天文、食貨以稱經濟）
+【虞衡學】ecology、生態學、（虞衡+學，勝爲士按：虞衡，通曰生態，古虞衡志所有事近之，今譯虞衡學，猶馮相以號天文、食貨以稱經濟）
 【動物虞衡學】animal ecology、動物生態學、（動物+虞衡學）
 【人類虞衡學】human ecology、人類生態學、（人類+虞衡學）
 【植物虞衡學】plant ecology、植物生態學、（植物+虞衡學）
@@ -7026,7 +7025,7 @@
 【課業專家】curriculum specialist、課程專家、（課業+專家）
 【印度𦴦莉】indian curry、印度咖喱、（印度+𦴦莉）
 【暹羅𦴦莉】Thai curry、泰式咖喱、（暹羅+𦴦莉）
-【嗜慾曲線】sensual curve、性感的曲線、（嗜慾+曲線，勝爲士按：【嗜慾】通曰性感、曰肉慾，字面嫌俗，今譯嗜慾，據官話補）
+【嗜慾曲線】sensual curve、性感的曲線、（嗜慾+曲線，勝爲士按：嗜慾，通曰性感、曰肉慾，字面嫌俗，今譯嗜慾，據官話補）
 【女子曲線】feminine curves、女性的曲線、（女子+曲線）
 【自然曲線】natural curve、自然曲線、（自然+曲線）
 【中正曲線】normal curve、正態曲線、（中正+曲線）
@@ -7059,10 +7058,10 @@
 【呼吸傳染】respiratory infection、呼吸道感染、（呼吸+傳染）
 【尿之傳染】urinary infection、尿路感染、（尿+傳染）
 【酵母傳染】yeast infection、酵母菌感染、（酵母+傳染）
-【機會傳染】opportunistic infection、機會性感染、（機會+傳染，勝爲士按：【機會】據沈國威說，機會係古典詞，故仍之）
+【機會傳染】opportunistic infection、機會性感染、（機會+傳染，勝爲士按：機會，據沈國威說，機會係古典詞，故補之）
 【傳染抵力】resistance of infection、對感染的抵抗、（傳染+抵力）
 【傳染源】source of infection、感染源、（傳染+源）
-【大顧客】big customer、大客戶、（大+顧客，勝爲士按：【顧客】據沈國威說，顧客係傳教士譯，故仍之）
+【大顧客】big customer、大客戶、（大+顧客，勝爲士按：顧客，據沈國威說，顧客係傳教士譯，故補之）
 【長期顧客】long-time customer、長期客戶、（長期+顧客）
 【忠懇顧客】loyal customer、忠實的客戶、（忠懇+顧客）
 【已有顧客】existing customer、現有的客戶、（已有+顧客）
@@ -7126,7 +7125,7 @@
 【循環時間】cycle time、循環時間、（循環+時間）
 【循環之貧乏】poverty of cycle、貧困的循環、（循環+貧乏）
 【循環之暴戾】violence of cycle、暴力的循環、（循環+暴戾）
-【營造設計】architectural design、建築設計、（營造+設計，勝爲士按：【設計】據沈國威說，設計係激活詞，故仍之）
+【營造設計】architectural design、建築設計、（營造+設計，勝爲士按：設計，據沈國威說，設計係激活詞，故補之）
 【工業設計】industrial design、工業設計、（工業+設計）
 【軟器設計】software design、軟件設計、（軟器+設計）
 【設計業】design business、設計行業、（設計+業）
@@ -7166,14 +7165,14 @@
 【設計疇顧】design consideration、設計依據、（設計+疇顧）
 【設計哲學】design philosophy、設計理念、（設計+哲學）
 【設計精神】design principle、設計原則、（設計+精神）
-【設計策略】design strategy、設計策略、（設計+策略，勝爲士按：【策略】據沈國威說，策略係激活詞，故仍之）
+【設計策略】design strategy、設計策略、（設計+策略，勝爲士按：策略，據沈國威說，策略係激活詞，故補之）
 【設計所求】design requirement、設計要求、（設計+所求）
 【設計標準】design standard、設計標準、（設計+標準）
 【設計過失】design fault、設計失誤、（設計+過失）
 【設計角逐】design competition、設計比賽、（設計+角逐）
 【設計改良】design modification、設計修改、（設計+改良）
 【嗜慾之樂】sensual pleasure、感官慾樂、感官享受、（嗜慾+樂）
-【秘密情報】secret intelligence、秘密情報、（秘密+情報，勝爲士按：【情報】據沈國威說，情報係傳教士譯，故仍之）
+【秘密情報】secret intelligence、秘密情報、（秘密+情報，勝爲士按：情報，據沈國威說，情報係傳教士譯，故補之）
 【良情報】good intelligence、好情報、（良+情報）
 【劣情報】bad intelligence、糟糕的情報、（劣+情報）
 【軍事情報】military intelligence、軍事情報、（軍事+情報）
@@ -9777,3 +9776,118 @@
 【駝羊毛】alpaca hair、羊駝毛、（駝羊+毛，勝爲士按：駝，一作䭾）
 【駝羊肉】alpaca meat、羊駝肉、（駝羊+肉）
 【駝羊毛外褂】alpaca overcoat、羊毛外衣、（駝羊毛+外褂）
+【垂高節制】altitude control、高度控制、（垂高+節制）
+【垂高差】altitude difference、高度差、（垂高+差）
+【絕對垂高】absolute altitude、絕對高度、（絕對+垂高）
+【垂高問題】altitude problem、海拔問題、（垂高+問題）
+【利人行為】altruistic behavior、利他行為、（利人+行為）
+【利人動機】altruistic motive、利他動機、（利人+動機）
+【利人總念】altruistic notion、利他觀念、（利人+總念）
+【教化公使、教化大使】cultural ambassador、文化大使、文化使節、（教化+公使/大使）
+【學生公使、學生大使】student ambassador、學生大使、（學生+公使/大使）
+【皇室貿易公使、皇室貿易大使】royal trade ambassador、皇家貿易大使、（皇室+貿易+公使/大使）
+【和平公使、和平大使】peace ambassador、和平大使、（和平+公使/大使）
+【紫石瑛玻璃】amethyst glass、紫水晶玻璃、（紫石瑛+玻璃）
+【合成紫石瑛】synthetic amethyst、合成紫水晶、（合成+紫石瑛）
+【紫石瑛驗樣】amethyst samples、紫晶樣品、（紫石瑛+驗樣）
+【和平天演】amicable evolution、和平演變、（和平+天演）
+【和平了結】amicable settlement、和解、友好解決、（和平+了結）
+【和平關係】amicable relationship、友好關係、（和平+關係）
+【赦宥國際】amnesty international、大赦國際、國際特赦組織、（赦宥+國際）
+【赦宥律】amnesty laws、大赦法、（赦宥+律）
+【賦稅赦宥】tax amnesty、稅收特赦、（賦稅+赦宥）
+【振動擺幅】vibration amplitude、振動振幅、振動強度、（振動+擺幅）
+【信號擺幅】signal amplitude、信號幅度、信號振幅、（信號+擺幅）
+【蹙力擺幅】stress amplitude、應力幅、振幅、（蹙力+擺幅）
+【蹶力擺幅】strain amplitude、應變幅度、（蹶力+擺幅）
+【不變擺幅】constant amplitude、恆幅、不變幅度、（不變+擺幅）
+【擺幅率】amplitude ratio、振幅比、幅度比率、（擺幅+率）
+【複擺幅】complex amplitude、複振幅、（複+擺幅）
+【衇至擺幅】pulse amplitude、脈衝幅度、脈衝振幅、（衇至+擺幅）
+【電壓擺幅】voltage amplitude、電壓振幅、（電壓+擺幅）
+【場擺幅】field amplitude、場幅度、（場+擺幅）
+【浪之擺幅】wave's amplitude、波幅、（浪+擺幅）
+【擺幅曲線】amplitude curve、振幅曲線、（擺幅+曲線）
+【高擺幅】high amplitude、高振幅、（高+擺幅）
+【引喻法、比例推法】analogy method、類比法、（引喻/比例推+法）
+【引喻分析、比例推分析】analogy analysis、類比分析、（引喻/比例推+分析）
+【灣泊帶】anchorage zone、錨固區域、（灣泊+帶）
+【灣泊制】anchorage system、錨定系統、（灣泊+制）
+【灣泊力】anchorage force、錨固力、（灣泊+力）
+【生色精油】aniline oil、苯胺油、（生色精+油）
+【生色精出產】aniline production、苯胺生產、（生色精+出產）
+【生色精業】aniline industry、苯胺行業、（生色精+業）
+【洋海環蟲】marine annelid、海洋環節動物、（洋海+環蟲）
+【骫法附益】illegal annexation、非法合併、（骫法+附益）
+【武力附益】forcible annexation、強行吞併、（武力+附益）
+【土地附益】land annexation、土地兼併、（土地+附益）
+【普通年金】ordinary annuity、普通年金、（普通+年金）
+【年金公式、年金公詞】annuity formula、年金公式、（年金+公式/公詞）
+【可變年金】variable annuity、可變年金、（可變+年金）
+【年金率】annuity rates、年費率、（年金+率）
+【年金質借】annuity mortgages、年金抵押貸款、（年金+質借）
+【背斜帶】anticline zones、背斜帶、（背斜+帶）
+【費之攤派】costs apportion、費用分攤、（費+攤派）
+【攤派費用】apportion fees、攤派費用、（攤派+費用）
+【攤派時間】apportion time、分配時間、（攤派+時間）
+【攤派貨物】apportion goods、分配商品、（攤派+貨物）
+【劃用議案】appropriation bill、政府年出預算案、（劃用+議案，勝爲士按：劃用，又譯支用、支調）
+【劃用預算】appropriation budget、撥款預算、（劃用+預算）
+【劃用帑項】appropriation fund、撥款基金、（劃用+帑項）
+【支調制度】appropriation system、撥款制度、（支調+制度）
+【度支劃用】financial appropriation、財務撥款、（度支+劃用）
+【支調股】appropriation's committee、撥款委員會、（支調+股）
+【天然霰石】natural aragonite、天然文石、（天然+霰石）
+【霰石層】aragonite layer、文石層、（霰石+層）
+【公斷其爭執】arbitrate their dispute、仲裁解決爭端、（公斷+其+爭執）
+【馬來多島海】malay archipelago、馬來群島、（馬來+多島海）
+【斯德賀倫多島海】the Stockholm archipelago、斯德哥爾摩群島、（斯德賀倫+多島海）
+【算學之平均】arithmetic average、算術平均數、（算學+平均）
+【算學式】arithmetic expression、算術表達式、（算學+式）
+【算辨幺匿】arithmetic logic unit、算術邏輯單元、（算+辨+幺匿）
+【向量】vector、向量、矢量、（向+量，勝爲士按：矢字非形學所應有名詞）
+【向量算學】vector arithmetic、向量算術、（向量+算學）
+【算學試驗】arithmetic tests、算術測試、（算學+試驗）
+【犰狳皮】armadillo skin、犰狳的皮膚、（犰狳+皮）
+【發電心電流】armature current、電樞電流、電驅電流、（發電心+電流）
+【發電心反應】armature reaction、電樞反應、（發電心+反應）
+【休戰日】armistice day、休戰紀念日、（休戰+日）
+【休戰條約】armistice treaty、停戰條約、（休戰+條約）
+【休戰協約】armistice agreement、停戰協議、（休戰+協約）
+【苦行之生活】ascetic life、禁慾主義式生活、（苦行+生活）
+【抵制苦行】anti-ascetic、反禁慾的、（抵制+苦行）
+【硬石油三夾土】asphalt concrete、瀝青混凝土、（硬石油+三夾土）
+【改良硬石油】modified asphalt、改性瀝青、（改良+硬石油）
+【硬石油路】asphalt road、瀝青柏油路、（硬+石油路）
+【黑硬石油】black asphalt、黑柏油、（黑+硬石油）
+【國際允許】international assent、國際承認、（國際+允許）
+【初級估價者】primary assessor、初級評價員、（初級+估價者）
+【城市估價者】municipal assessor、市級評價員、（城市+估價者）
+【獨立估價者】independent assessor、獨立評估師、（獨立+估價者）
+【保險估價者】insurance assessor、保險公估人、（保險+估價者）
+【貲產管理】assets management、資產管理、（貲產+管理）
+【貲產及債負】assets and liabilities、資產與負債、（貲產+債負）
+【固定貲產投資】investment in fixed assets、固定資產投資、（固定+貲產+投資）
+【箇人貲產】personal assets、私人資產、（箇人+貲產）
+【貲產還利】return on assets、資產收益、（貲產+還利）
+【海外貲產】overseas assets、海外資產、（海外+貲產）
+【業聯貲產】corporate assets、公司資產、（業聯+貲產）
+【劣貲產】bad assets、不良資產、（劣+貲產）
+【實質貲產】material assets、物質資產、（實質+貲產）
+【明源】open source、開源、（明+源）
+【明源貲產】open source assets、開源資產、（明源+貲產）
+【明源之愛力】attraction of open source、開源的吸引力、（明源+愛力）
+【明源工器】open source tools、開源工具、（明源+工器）
+【自由明源照】Liberal open source license、自由開放源碼許可、（自由+明源+照）
+【讓與法】assignment method、轉讓方法、（讓與+法，勝爲士按：讓與，他處或可譯授與）
+【原受讓者】original assignee、原先的受讓人、（原+受讓者）
+【浸假類化】gradual assimilation、逐步同化、（浸假+類化）
+【類化行程】assimilation processes、同化過程、（類化+行程）
+【教化類化】cultural assimilation、文化同化、（教化+類化）
+【依面額值、面額】at par value、面值、（依面額+值、面額）
+【我曹依面額買股券】We bought the stock at par、我們是按票面價值買進這只股票的、（我曹+依面額+買+股券）
+【員輿大氣】earth's atmosphere、地球大氣、（員輿+大氣）
+【上大氣】upper atmosphere、上層大氣、高空大氣、（上+大氣）
+【大氣壓力】atmosphere pressure、大氣壓力、大氣壓強、（大氣+壓力）
+【下大氣】lower atmosphere、低層大氣、下層大氣、（下+大氣）
+【標準大氣】standard atmosphere、標準大氣、（標準+大氣）
