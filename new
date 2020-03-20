@@ -8342,7 +8342,7 @@
 【廠肆僱工】factory employee、工廠僱員、（廠肆+僱工）
 【逆旅僱工】hotel employee、賓館僱員、（逆旅+僱工）
 【郵政僱工】postal employee、郵局僱員、（郵政+僱工）
-【僱工地位】employee status、僱員地位、（僱工+地位）
+【僱工分位】employee status、僱員地位、（僱工+分位，勝爲士按：分位，一譯地位）
 【僱工關係】employee relations、僱員關係、（僱工+關係）
 【僱工執行】employee performance、員工業績、（僱工+執行）
 【僱工生利】employee productivity、員工生產力、（僱工+生利）
@@ -10332,3 +10332,24 @@
 【時勢考】environmental history、環境史、（時勢+考）
 【天演考】evolutionary history、進化史、（天演+考）
 【地質考】geological history、地質史、（地質+考）
+【烈士分位】hero status、英雄身份、（烈士+分位）
+【高分位】high status、高人一等的身份、（高+分位）
+【低分位】low status、低人一等的身份、（低+分位）
+【對待分位】relative status、相對的地位、（對待+分位）
+【平等分位】equal status、平等的地位、（平等+分位）
+【特權分位】privileged status、特權地位、（特權+分位）
+【特別分位】special status、特殊地位、（特別+分位）
+【少數分位】minority status、少數族群的地位、（少數+分位）
+【外交分位】diplomatic status、外交地位、（外交+分位）
+【邦人分位】citizenship status、公民身份、（邦人+分位）
+【徠民分位】immigrant status、移民身份、（徠民+分位）
+【亡人分位】refugee status、難民身份、（亡人+分位）
+【善堂分位、保惠所分位】charity status、慈善機構的地位、（善堂/保惠所+分位）
+【非營利分位】non-profit status、非贏利身份、（非營利+分位）
+【經常分位】classic status、經典地位、（經常+分位）
+【崇拜分位】cult status、偶像地位、（崇拜+分位）
+【分位之符號】status symbol、身份的象徵、（分位+符號）
+【世襲顯族】hereditary peer、世襲貴族、（世襲+顯族）
+【齊民】common people、平民階層、平民百姓、（齊民）
+【借款之母財】principal of a loan、貸款的本金、（借款+母財）
+【投資人之母財】investors’ principal、投資者的本金、（投資人+母財）
