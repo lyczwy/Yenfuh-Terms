@@ -545,7 +545,7 @@
 【崇信用事】belief factors、信念因素、（崇信+用事）
 【等量崇信】equivalence belief、等值信念、（等量+崇信）
 【庸眾崇信】popular belief、民間信仰、（庸眾+崇信）
-【社會民政、社會庶建】social democracy、社會民主、（社會+民政/庶建）
+【社會民政、均富庶建】social democracy、社會民主、（社會/均富+民政/庶建）
 【警察官】police officer、警官、（警察+官）
 【行政官】executive officer、執行官、（行政+官）
 【海軍官】naval officer、海軍軍官、（海軍+官）
@@ -8820,11 +8820,10 @@
 【專門說明】technical explanation、技術的解釋、（專門+說明）
 【理說說明】theoretical explanation、理論的解釋、（理說+說明）
 【無恥營私】shameless exploit、無恥的剝削、（無恥+營私）
-【借貲本營私】capitalist exploit、資本主義剝削、（借…營私+貲本）
-【借民等營私】class exploit、階級剝削、（借…營私+民等）
-【借生計營私】economic exploit、經濟剝削、（借…營私+生計）
-【借工業營私】industrial exploit、工業剝削、（借…營私+工業）
-【借男女營私】sexual exploit、性剝削、（借…營私+男女）
+【借貲營私】capitalist exploit、資本主義剝削、（借…營私+貲）
+【借流營私】class exploit、階級剝削、（借…營私+流）
+【借計營私】economic exploit、經濟剝削、（借…營私+計）
+【借體營私】sexual exploit、性剝削、（借…營私+體）
 【大轟發】big explosion、大爆炸、（大+轟發）
 【小轟發】small explosion、小爆炸、（小+轟發）
 【節制轟發】controlled explosion、受控爆炸、（節制+轟發）
@@ -10659,8 +10658,8 @@
 【政治上之難行】politically impossible、政治上不可能、（政治+難行）
 【科學上之不可得】scientifically impossible、科學上不可能、（科學+不可得）
 【專門上之難行】technically impossible、技術上不可能、（專門+難行）
-【六月拘禁】six months' imprisonment、六個月監禁、（六月+拘禁）
-【十年拘禁】ten years' imprisonment、十年監禁、（十年+拘禁）
+【拘禁六月】six months' imprisonment、六個月監禁、（拘禁+六月）
+【拘禁十年】ten years' imprisonment、十年監禁、（拘禁+十年）
 【無限拘禁】indefinite imprisonment、不定期監禁、（無限+拘禁）
 【虛妄拘禁】false imprisonment、不正當關押、（虛妄+拘禁）
 【不法拘禁】unlawful imprisonment、非法囚禁、（不法+拘禁）
