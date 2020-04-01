@@ -350,7 +350,7 @@
 【大蕭索】great depression、大蕭條、（大+蕭索）
 【生計蕭索】economic depression、經濟蕭條、（生計+蕭索）
 【利源管理】resources management、資源管理、資源治理、（利源+管理）
-【物質利源】material resources、物質資源、（物質+利源）
+【物質利源】material resources、物質資源、（物質+利源，勝爲士案：物質matter，單稱質）
 【森林利源】forest resources、森林資源、（森林+利源）
 【利源分俵】allocation of resources、資源配置、資源分配、（利源+分俵）
 【教育利源】educational resources、教育資源、（教育+利源）
@@ -1061,7 +1061,7 @@
 【傳知專門】communication technology、通信技術、（傳知+專門）
 【無線傳知】wireless communication、無線通信、（無線+傳知）
 【光傳知】optical communication、光通信、（光+傳知）
-【指碼傳知】digital communication、數字通訊、數位通訊、（指碼+傳知，勝爲士按：指碼digit，擬單稱碼）
+【指碼傳知】digital communication、數字通訊、數位通訊、（指碼+傳知，勝爲士按：指碼digit，擬單稱碼，近譯數碼）
 【傳知塗術】means of communication、通信手段、（傳知+塗術）
 【指碼署名】digital signature、數字簽名、數位簽章、（指碼+署名）
 【指碼像】digital image、數字圖像、數位影像、（指碼+像）
@@ -1103,7 +1103,7 @@
 【趨向指表】trend indicator、趨向指示、（趨向+指表）
 【假學】pseudoscience、偽科學、（假+學）
 【假學家】Pseudo-scientist、偽科學家、（假+學+家）
-【抵制假學】anti-pseudoscience、反偽科學、（抵制+假學）
+【抵制假學】anti-pseudoscience、反偽科學、（抵制+假學，勝爲士案：抵制anti-，一譯反）
 【上電器】charger、充電器、（上電+器）
 【上電率】charge rate、充電率、（上電+率）
 【積聚電壘上電】accumulator charging、蓄電池充電、（積聚電壘+上電）
@@ -2304,7 +2304,7 @@
 【博事問題】gambling problem、賭博問題、（博事+問題）
 【人羣問題】social problem、社會問題、（人羣+問題）
 【嫁娶問題】marriage problem、婚姻問題、（嫁娶+問題）
-【九幣成術】Nine-coin problem、九枚硬幣問題、（九+幣+成術）
+【九幣成術】Nine-coin problem、九枚硬幣問題、（九+幣+成術，勝爲士案：幣coin，又譯錢、圓）
 【十二幣成術】Twelve-coin problem、十二枚硬幣問題、（十二+幣+成術）
 【保童法】the Law on the Protection of Minors、未成年人保護法、（保+童+法）
 【成事之覺】sense of achievement、成就感、（成事+覺）
@@ -5150,7 +5150,7 @@
 【皇室小寺】royal chapel、皇家小教堂、（皇室+小寺）
 【學館小寺】college chapel、學院禮拜堂、學院小教堂、（學館+小寺）
 【學校小寺】school chapel、學校小教堂、（學校+小寺）
-【大學堂小寺】university chapel、大學禮拜堂、大學小教堂、（大學堂+小寺）
+【大學堂小寺】university chapel、大學禮拜堂、大學小教堂、（大學堂+小寺，勝爲士案：大學堂university，一譯國學）
 【醫院小寺】hospital chapel、醫院小教堂、（醫院+小寺）
 【監獄小寺】prison chapel、監獄小教堂、（監獄+小寺）
 【婚姻小寺】wedding chapel、婚禮小教堂、（婚姻+小寺）
@@ -7602,8 +7602,8 @@
 【構造差別】structural difference、結構差異、（構造+差別）
 【完全消化】fully digest、完全消化、（完全+消化）
 【一部消化】partially digest、部分消化、（一部+消化）
-【二進法之指碼】binary digit、二進制數字、（二進法+指碼）
-【十進法之指碼】decimal digit、十進制數字、（十進法+指碼）
+【二進指碼】binary digit、二進制數字、（二進法+指碼）
+【十進指碼】decimal digit、十進制數字、（十進法+指碼）
 【人類雙引辭】human dilemma、人類的兩難困境、（人類+雙引辭）
 【箇人雙引辭】personal dilemma、個人的左右為難、（箇人+雙引辭）
 【倫理雙引辭】ethical dilemma、倫理上難以取捨、（倫理+雙引辭）
@@ -11029,3 +11029,22 @@
 【斑駁】mosaic、馬賽克視覺效果、（斑駁，勝爲士按：斑駁之石片，從蔡元培語）
 【斑駁影戲】mosaic movie、馬賽克影片、（斑駁+影戲）
 【斑駁像】mosaic image、鑲嵌圖、馬賽克圖像、（斑駁+像）
+【說明文字】expository-writing、說明文、（說明+文字）
+【敘寫文字】descriptive writing、描寫文、（敘寫+文字）
+【維基教科書】Wikibooks、維基教科書、（維基+教科書，勝爲士案：維基wiki，從近譯，維有連結之意，基有根本之意，不佞私譯蔚奇）
+【維基報章】Wikinews、維基新聞、（維基+報章）
+【維基物類】Wikispecies、維基物種、（維基+物類）
+【維基根據】Wikidata、維基數據、（維基+根據）
+【維基智環】Wikipedia、維基百科、（維基+智環）
+【維基大學堂】Wikiversity、維基學院、（維基+大學堂）
+【維基字典】Wiktionary、維基詞典、（維基+字典）
+【維基語錄】Wikiquote、維基語錄、（維基+語錄）
+【維基公共】Wikimedia Commons、維基共享資源、（維基+公共）
+【維基旅行】Wikivoyage、維基導遊、（維基+旅行，勝爲士案：此旅行之司南travel guide也，故譯旅行）
+【上維基】Meta-Wiki、元維基、（上+維基）
+【維基書社】Wikisource、維基文庫、（維基+書社，勝爲士案：此指碼之書社digital library也，故譯書社）
+【暗物質】Dark matter、暗物質、（暗+物質）
+【暗功權】Dark energy、暗能量、（暗+功權）
+【反物質】antimatter、反物質、（反+物質）
+【比特】Bit、位元、比特、（比特，勝爲士案：語源二進指碼Binary digit，縮作比特Bit，從近譯）
+【比特圓】Bitcoin、比特幣、位元幣、（比特+圓）
