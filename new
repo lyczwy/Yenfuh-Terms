@@ -74,7 +74,7 @@
 【畜玩醫院】pet hospital、寵物醫院、（畜玩+醫院）
 【正感受】positive affection、正向情感、積極情感、（正+感受）
 【負感受】negative affection、負向情感、消極情感、（負+感受）
-【實業政策】industrial policy、產業政策、工業政策、（實業+政策，勝爲士案：政策policy，單稱策，一譯政約）
+【實業政策】industrial policy、產業政策、工業政策、（實業+政策，勝爲士案：政策policy，單稱策，一譯政約，或僅譯一約字）
 【實業計學】industrial economics、產業經濟學、工業經濟學、（實業+計學）
 【力作之不測】industrial accident、勞動事故、工傷事故、工業事故、（力作+不測）
 【實業羣】industrial cluster、產業集群、產業群、（實業+羣）
@@ -354,7 +354,7 @@
 【森林利源】forest resources、森林資源、（森林+利源）
 【利源分俵】allocation of resources、資源配置、資源分配、（利源+分俵）
 【教育利源】educational resources、教育資源、（教育+利源）
-【武裝勢力】armed force、武裝力量、（武裝+勢力）
+【武裝勢力】armed force、武裝力量、（武裝+勢力，勝爲士案：武裝armed，他處或可譯挾兵）
 【翕收功權】absorb energy、吸收能量、（翕收+功權）
 【公眾承受】public acceptance、公眾諒解、公眾接受、公眾認受、（公眾+承受）
 【通受】wide acceptance、廣泛接受、（通+受）
@@ -460,7 +460,7 @@
 【動物之益】animal welfare、動物福利、動物福祉、（動物+益，勝爲士案：益welfare，他處或可譯善生）
 【善生計學】welfare economics、福利經濟學、（善生+計學）
 【善生帑項】welfare fund、福利基金、（善生+帑項，勝爲士案：帑項fund，或僅譯一款字）
-【善生給予】welfare payments、福利性支出、福利金、（善生+給予）
+【善生給予】welfare payments、福利性支出、福利金、（善生+給予，勝爲士按：給予payment，他處或可譯付款、償還、䝪）
 【善生之制】welfare system、福利體系、福利制度、（善生+制）
 【善生之便】welfare facilities、福利設施、（善生+便）
 【善生分析】welfare analysis、福利分析、（善生+分析）
@@ -973,7 +973,7 @@
 【供給邊構造之改良】supply-side structural reform、供給側結構性改革、（供給+邊+構造+改良）
 【意設氣質】ideal gas、理想氣體、（意設+氣質）
 【意設液劑】ideal solution、理想溶液、（意設+液劑）
-【意設式】ideal type、理想類型、（意設+式）
+【意設式】ideal type、理想類型、（意設+式，勝爲士案：形式type，單稱式）
 【意設統系】ideal system、理想系統、（意設+統系）
 【意設流質】ideal fluid、無粘性流體、（意設+流質）
 【意設錢幣】ideal money、理想的貨幣、（意設+錢幣）
@@ -1287,7 +1287,7 @@
 【社會協諧】social harmony、社會和諧、（社會+協諧）
 【完全協諧】perfect harmony、完美和諧、（完全+協諧）
 【新協諧】new harmony、新和諧、（新+協諧）
-【固定債負】fixed liability、固定負債、固定債務、（固定+債負）
+【固定債負】fixed liability、固定負債、固定債務、（固定+債負，勝爲士按：債負liability，他處或可譯責任）
 【箇人債負】personal liability、個人負債、（箇人+債負）
 【解放債負】discharge liability、解除債務、（解放+債負）
 【財產債負】property liability、財產責任、（財產+債負）
@@ -2111,7 +2111,7 @@
 【總僱傭】total employment、總就業人數、（總+僱傭）
 【完足敘寫】sufficiency of description、充分描述、（完足+敘寫）
 【完足準備】full preparation、充分準備、（完足+準備）
-【完足發表】adequate disclosure、充分披露、（完足+發表）
+【完足發表】adequate disclosure、充分披露、（完足+發表，勝爲士按：完足adequate，他處或可譯相當）
 【完足交換】adequate exchange、充分交換、（完足+交換）
 【完足證據】sufficient evidence、充分證據、（完足+證據）
 【完足供給】sufficient supply、充分供應、（完足+供給）
@@ -11048,3 +11048,78 @@
 【反物質】antimatter、反物質、（反+物質）
 【比特】Bit、位元、比特、（比特，勝爲士案：語源二進指碼Binary digit，縮作比特Bit，從近譯）
 【比特圓】Bitcoin、比特幣、位元幣、（比特+圓）
+【保惠民社】charitable foundation、慈善基金會、（保惠+民社）
+【死線】Death Ray、死光、殺人光線、死亡射線、（死+線）
+【易覺利器】sensitive instrument、靈敏儀器、（易覺+利器，勝爲士按：利器，單稱器）
+【小利器】small instrument、小型器具、（小+利器）
+【畫器】drawing instrument、繪圖儀器、（畫+器）
+【度器】measuring instrument、測量儀器、（度+器）
+【天文利器】astronomical instrument、天文儀器、（天文+利器）
+【數學利器】mathematical instrument、數學儀器、（數學+利器）
+【醫療利器】medical instrument、醫療器械、（醫療+利器）
+【駕駛利器】navigation instrument、導航儀器、（駕駛+利器）
+【光學利器】optical instrument、光學儀器、（光學+利器）
+【科學利器】scientific instrument、科學儀器、（科學+利器）
+【手術利器】surgical instrument、外科器械、（手術+利器）
+【利器檢查】instrument check、儀器檢查、（利器+檢查）
+【樂器】musical instrument、樂器、（樂+器）
+【不完足】insufficient、不充分、（不+完足）
+【斟酌之羞辱】deliberate insult、故意的侮辱、（斟酌+羞辱）
+【直接羞辱】direct insult、直接的侮辱、（直接+羞辱）
+【民身羞辱】personal insult、人身侮辱、（民身+羞辱）
+【完足保險】adequate insurance、充分的保險、（完足+保險）
+【長期保險】long-term insurance、長期險、（長期+保險）
+【短期保險】short-term insurance、短期險、（短期+保險）
+【國家保險】national insurance、國家保險、（國家+保險）
+【社會保險】social insurance、社會保險、（社會+保險）
+【商業保險】commercial insurance、商業保險、（商業+保險）
+【強迫保險】compulsory insurance、強制保險、（強迫+保險）
+【醫療保險】medical insurance、醫療保險、（醫療+保險）
+【旅行保險】travel insurance、旅行保險、（旅行+保險）
+【水災保險】flood insurance、洪水保險、（水災+保險）
+【無業保險】unemployment insurance、失業保險、（無業+保險）
+【工人調劑保險】workers' compensation insurance、工傷補償保險、（工人+調劑+保險）
+【責任保險】liability insurance、責任保險、（責任+保險）
+【第三方保險】third-party insurance、第三方責任保險、（第三方+保險）
+【普徧保險】universal insurance、全民保險、（普徧+保險）
+【特別保險】special insurance、特殊保險、（特別+保險）
+【保險前畫】insurance plan、保險方案、（保險+前畫）
+【保險統系】insurance system、保險系統、（保險+統系）
+【保險費】insurance cost、保險費用、（保險+費）
+【保險利】insurance benefit、保險利潤、（保險+利）
+【保險金】insurance money、保險金、（保險+金）
+【保險使令】insurance service、保險服務業、（保險+使令）
+【保險市場】insurance market、保險市場、（保險+市場）
+【保險調處人】insurance adjuster、損失理算員、（保險+調處人）
+【保險券】insurance certificate、保險憑證、（保險+券）
+【武裝作亂、武裝暴動】armed insurrection、武裝起義、（武裝+作亂/暴動，勝爲士案：作亂insurrection，一譯暴動）
+【庸眾作亂、庸眾暴動】popular insurrection、民眾暴動、（庸眾+作亂/暴動）
+【奴隸作亂、奴隸暴動】slave insurrection、奴隸暴動、（奴隸+作亂/暴動，勝爲士案：奴隸，單稱奴）
+【絕對誠實】absolute integrity、絕對誠實、（絕對+誠實）
+【箇人誠實】personal integrity、個人的誠實、（箇人+誠實）
+【學術誠實】academic integrity、學術誠信、（學術+誠實）
+【美術誠實】artistic integrity、藝術操守、（美術+誠實）
+【度支誠實】financial integrity、金融誠信、（度支+誠實）
+【報章誠實】journalistic integrity、新聞誠信、（報章+誠實）
+【道德誠實】moral integrity、品行正直、（道德+誠實）
+【政治誠實】political integrity、政治誠信、（政治+誠實）
+【執業誠實】professional integrity、職業操守、（執業+誠實）
+【科學誠實】scientific integrity、科學誠信、（科學+誠實）
+【形氣之完全】physical integrity、實物的完整、（形氣+完全）
+【構造之完全】structural integrity、結構上的完整、（構造+完全）
+【根據之完全】data integrity、數據完整性、（根據+完全）
+【知力之完全】intellectual integrity、智力健全、（知力+完全）
+【明瞭起意】clearly intend、明確計劃、（明瞭+起意）
+【高強度】high intensity、高強度、（高+強度，勝爲士案：強度，單稱強，一譯強率）
+【低強度】low intensity、低強度、（低+強度）
+【最大強度】maximum intensity、最大強度、（最大+強度）
+【心感強度】emotional intensity、情感的強烈、（心感+強度）
+【光強】light intensity、光照強度、（光+強）
+【最初意見】original intention、最初的打算、（最初+意見）
+【斟酌意見】deliberate intention、深思熟慮的計劃、（斟酌+意見）
+【總意見】general intention、總體打算、（總+意見）
+【惡意見】bad intention、不良的意圖、（惡+意見）
+【逆性交通】homosexual intercourse、同性間的性交、（逆性+交通）
+【順性交通】heterosexual intercourse、異性間的性交、（順性+交通）
+【不法交通】unlawful intercourse、非法性交、（不法+交通）
+【無保護之交通】unprotected intercourse、未採取保護措施的性交、（無保護+交通）
