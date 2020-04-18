@@ -785,7 +785,7 @@
 【週數光圖】frequency spectrum、頻譜、頻率譜、（週數+光圖）
 【赤外光圖】infrared spectrum、紅外光譜、（赤外+光圖）
 【功權光圖】energy spectrum、能譜、（功權+光圖）
-【質量光圖】mass spectrum、質譜、（質量+光圖）
+【質量光圖】mass spectrum、質譜、（質量+光圖，勝爲士案：質量mass，他處或可譯塊）
 【負重光圖】load spectrum、載荷譜、（負重+光圖，勝爲士案：負重load，他處或可譯重儎）
 【紫外光圖】ultraviolet spectrum、紫外光譜、（紫外+光圖）
 【蕩漾光圖】wave spectrum、波譜、（蕩漾+光圖，勝爲士案：蕩漾wave，亦譯浪動）
@@ -2590,7 +2590,7 @@
 【綠色棄除品】green waste、綠色廢料、（綠色+棄除品）
 【城市棄除品】municipal waste、市政垃圾、（城市+棄除品）
 【液質棄除品】liquid waste、液體廢物、（液質+棄除品）
-【凝質棄除品】solid waste、固體廢物、（凝質+棄除品）
+【定質棄除品】solid waste、固體廢物、（定質+棄除品，勝爲士案：定質solid，亦譯凝質）
 【營造棄除品】construction waste、施工廢棄物、（營造+棄除品）
 【完全扶持】complete support、完全的支持、（完全+扶持）
 【熱心扶持】enthusiastic support、熱情的支持、（熱心+扶持）
@@ -3373,8 +3373,8 @@
 【從星受浪網】satellite antenna、衛星天線、（從星+受浪網）
 【從星聚】satellite town、衛星城、衛星鎮、（從星+聚）
 【從星城】satellite city、衛星城、（從星+城）
-【左宗】Left-wing politics、leftism、左翼、左派、（左+宗）
-【右宗】Right-wing politics、rightism、右翼、右派、（右+宗）
+【左翼、左宗】Left-wing politics、leftism、左翼、左派、（左+翼/宗）
+【右翼、右宗】Right-wing politics、rightism、右翼、右派、（右+翼/宗）
 【過激之左宗、過左】Far-left politics、極左派、極左翼、（過激/過+左宗/左）
 【過激之右宗、過右】Far-right politics、極右派、極右翼、（過激/過+右宗/右）
 【中宗】Centrism、中間主義、中間派、（中+宗）
@@ -9057,7 +9057,7 @@
 【醱酵管】fermentation tube、發酵管、（醱酵+管）
 【醱酵專門】fermentation technology、發酵技術、（醱酵+專門）
 【酒精醱酵】alcoholic fermentation、酒精發酵、乙醇發酵、（酒精+醱酵）
-【凝質醱酵】solid fermentation、固體發酵、（凝質+醱酵）
+【定質醱酵】solid fermentation、固體發酵、（定質+醱酵）
 【醋酸醱酵】acetic acid fermentation、醋酸發酵、乙酸發酵、（醋酸+醱酵）
 【乳酸醱酵】lactic acid fermentation、乳酸發酵、（乳酸+醱酵）
 【枸櫞酸醱酵】citric acid fermentation、檸檬酸發酵、（枸櫞酸+醱酵）
@@ -9222,7 +9222,7 @@
 【脂肪食品】fatty food、油膩的食品、（脂肪+食品）
 【高脂肪食品】high-fat food、高脂肪的食品、（高+脂肪+食品）
 【高加羅里食品】high-calorie food、高熱量食品、（高+加羅里+食品）
-【凝質食品】solid food、固體食物、（凝質+食品）
+【定質食品】solid food、固體食物、（定質+食品）
 【食品供給】food supply、食物供應、（食品+供給）
 【食品出產】food product、食物產品、（食品+出產）
 【食品衛生】food hygiene、食品衛生、（食品+衛生）
@@ -9456,7 +9456,7 @@
 【無鉛燃材】unleaded fuel、無鉛燃料、（無鉛+燃材）
 【殭石燃材】fossil fuel、化石燃料、（殭石+燃材）
 【液質燃材】liquid fuel、液體燃料、（液質+燃材）
-【凝質燃材】solid fuel、固體燃料、（凝質+燃材）
+【定質燃材】solid fuel、固體燃料、（定質+燃材）
 【家庭燃材】domestic fuel、民用燃料、（家庭+燃材）
 【航空燃材】aviation fuel、航空燃料、（航空+燃材）
 【射氣燃材】jet fuel、噴氣燃料、（射氣+燃材）
@@ -10622,7 +10622,7 @@
 【輸入節制】import control、進口管制、（輸入+節制）
 【輸入限制】import restriction、進口限制、（輸入+限制）
 【輸入稅】import duty、進口關稅、（輸入+稅）
-【第一緊要】first importance、頭等重要、（第一+緊要）
+【第一緊要】first importance、頭等重要、（第一+緊要，勝爲士案：緊要importance，他處或可譯義蘊）
 【有限之緊要】limited importance、有限的重要性、（有限+緊要）
 【一般之緊要】general importance、一般的重要性、（一般+緊要）
 【對待之緊要】relative importance、相對的重要性、（對待+緊要）
@@ -12320,3 +12320,41 @@
 【婚姻關係】marriage relationship、婚姻關係、（婚姻+關係）
 【婚姻市場】marriage market、婚姻市場、（婚姻+市場）
 【婚牀】marriage bed、婚床、（婚+牀，勝爲士案：牀bed，亦譯笫）
+【名譽殉道者】glorious martyr、光榮的殉道者、（名譽+殉道者）
+【景教殉道者】christian martyr、基督教殉教者、（景教+殉道者）
+【回教殉道者】Islamic martyr、伊斯蘭教殉教者、（回教+殉道者）
+【新教殉道者】protestant martyr、新教殉教者、（新教+殉道者）
+【微塵質量】molecular mass、分子質量、（微塵+質量）
+【骨質量】bone mass、骨量、（骨+質量）
+【硬固塊】dense mass、緊密的一團、（硬固+塊）
+【陸塊】land mass、陸塊、地塊、（陸+塊）
+【奴隸主人】slave master、奴隸主、（奴隸+主人）
+【殘虐之主人】cruel master、殘忍的主人、（殘虐+主人）
+【掌禮】master of ceremonies、司儀、（掌+禮）
+【大藝師】great master、巨匠、（大+藝師）
+【可燃材料】inflammable material、可燃物、（可燃+材料）
+【核材】nuclear material、核材料、（核+材料）
+【天然材料】natural material、天然材料、（天然+材料）
+【有機材料】organic material、有機材料、（有機+材料）
+【人為材料】artificial material、人造材料、（人為+材料）
+【生物材料】biological material、生物材料、（生物+材料）
+【工業材料】industrial material、工業材料、（工業+材料）
+【原材】original material、原先的材料、（原+材料）
+【美術材料】art material、藝術材料、（美術+材料）
+【行銷材料】marketing material、營銷材料、（行銷+材料）
+【歷史材料】historical material、歷史材料、（歷史+材料）
+【定質物質】solid matter、固體物質、（定質+物質）
+【無機質】inorganic matter、無機物、（無機+質）
+【法許最大限】legal maximum、法定的最高限度、（法許+最大限）
+【本地府尹】local mayor、當地市長、（本地+府尹）
+【副府尹】deputy mayor、副市長、（副+府尹）
+【民政黨府尹】democratic mayor、民主黨市長、（民政黨+府尹）
+【公治黨府尹】republican mayor、共和黨市長、（公治黨+府尹）
+【右宗府尹】right-wing mayor、右翼市長、（右宗+府尹）
+【社會主義府尹】socialist mayor、奉行社會主義的市長、（社會主義+府尹）
+【時府尹】current mayor、現任市長、（時+府尹）
+【大城府尹】big-city mayor、大城市市長、（大+城+府尹）
+【小聚府尹】small-town mayor、小城市市長、（小+聚+府尹）
+【深義】deep meaning、深層的意義、（深+義）
+【真義】real meaning、真正的意義、（真+義）
+【神義】true meaning、精神意義、（神+義）
