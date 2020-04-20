@@ -248,11 +248,11 @@
 【空間亙】space dimension、空間維度、（空間+亙）
 【金類本德】metal properties、金屬特性、（金類+本德，勝爲士案：金類metal，一作金屬）
 【志向本德】object properties、對象屬性、（志向+本德）
-【致害之空間】noxious space、有害空間、有毒空間、（致害+空間）
-【致害之效力】noxious effect、有害作用、（致害+效力）
-【致害之液質】noxious liquid、有毒液體、有害液體、（致害+液質）
-【致害之氣質】noxious gas、有害氣體、（致害+氣質）
-【致害之貨物】noxious goods、有害貨物、（致害+貨物）
+【致害空間】noxious space、有害空間、有毒空間、（致害+空間）
+【致害效力】noxious effect、有害作用、（致害+效力）
+【致害液質】noxious liquid、有毒液體、有害液體、（致害+液質）
+【致害氣質】noxious gas、有害氣體、（致害+氣質）
+【致害貨物】noxious goods、有害貨物、（致害+貨物）
 【長任資格】permanent member、常人會員、常任理事、（長任+資格）
 【長任代表】permanent representative、常駐代表、常駐大使、（長任+代表，勝爲士案：代表representive，他處或可譯民表，舊譯委辦）
 【民人訟廷】people's court、人民法院、（民人+訟廷）
@@ -316,7 +316,7 @@
 【高加索種人】caucasian peoples、高加索民族、（高加索+種人）
 【鞲鞴罨】piston valve、活塞閥、（鞲鞴+罨）
 【鞲鞴距隙】piston clearance、活塞間隙、（鞲鞴+距隙）
-【鞲鞴汽機】piston engine、活塞發動機、（鞲鞴+汽機）
+【鞲鞴汽機】piston engine、活塞發動機、（鞲鞴+汽機，勝爲士案：汽機engine，單稱機）
 【水力鞲鞴】hydraulic piston、液壓活塞、（水力+鞲鞴）
 【鞲鞴圓柱】piston cylinder、活塞筒、（鞲鞴+圓柱）
 【鞲鞴抽吸機】piston pump、活塞泵、（鞲鞴+抽吸機）
@@ -461,7 +461,7 @@
 【善生計學】welfare economics、福利經濟學、（善生+計學）
 【善生帑項】welfare fund、福利基金、（善生+帑項，勝爲士案：帑項fund，或僅譯一款字）
 【善生給予】welfare payments、福利性支出、福利金、（善生+給予，勝爲士按：給予payment，他處或可譯付款、償還、償款、䝪、庸）
-【善生之制】welfare system、福利體系、福利制度、（善生+制）
+【善生制度】welfare system、福利體系、福利制度、（善生+制度）
 【善生之便】welfare facilities、福利設施、（善生+便）
 【善生分析】welfare analysis、福利分析、（善生+分析）
 【生計之益】economic welfare、經濟福利、（生計+益）
@@ -779,7 +779,7 @@
 【自動機手】robot hand、機械手、（自動機+手）
 【自動機力學】robot dynamics、機器人動力學、（自動機+力學）
 【自動機學】robotics、機器人學、（自動機+學）
-【Ｘ線】X ray、X光、X射線、（Ｘ+線，勝爲士案：此字母詞也，用英文全形，若ＡＢＣＤＥＦＧＨＩＪＫＬＭＮＯＰＱＲＳＴＵＶＷＸＹＺ）
+【Ｘ線】X ray、X光、X射線、（Ｘ+線，勝爲士案：此字母詞，用英文全形，大寫ＡＢＣＤＥＦＧＨＩＪＫＬＭＮＯＰＱＲＳＴＵＶＷＸＹＺ，小寫ａｂｃｄｅｆｇｈｉｊｋｌｍｎｏｐｑｒｓｔｕｖｗｘｙｚ）
 【行星Ｘ】planet X、未知行星、（行星+Ｘ）
 【用事Ｘ】X factor、未知因素、（用事+Ｘ）
 【週數光圖】frequency spectrum、頻譜、頻率譜、（週數+光圖）
@@ -956,7 +956,7 @@
 【公羣排閣】collective boycott、group boycott、集體抵制、（公羣+排閣）
 【畜玩食品】pet food、寵物食品、（畜玩+食品）
 【畜玩犬】pet dog、寵物犬、寵物狗、（畜玩+犬）
-【畜玩店】pet shop、寵物商店、（畜玩+店，勝爲士案：店，亦譯肆）
+【畜玩店】pet shop、寵物商店、（畜玩+店，勝爲士案：店肆shop，單稱店、肆）
 【勞民同盟】working-class alliance、工人階級聯盟、（勞民+同盟）
 【勞民屋】working-class housing、工人住房、（勞民+屋）
 【新勞民】new working class、新工人階級、（新+勞民）
@@ -7421,7 +7421,7 @@
 【無待於…】independent of、獨立於…、（無待）
 【營造會存款】building-society deposit、建房互助會存款、（營造+會+存款）
 【直接存款】direct deposit、直接存款、（直接+存款）
-【大蓄積】large deposit、儲量大的礦床、（大+蓄積）
+【大蓄積】large deposit、儲量大的礦床、（大+蓄積，勝爲士案：蓄積deposit，單稱積）
 【煤氣蓄積】gas deposit、天然氣礦床、（煤氣+蓄積）
 【礦積】mineral deposit、礦床、（礦+積）
 【油積】oil deposit、石油礦床、（油+積）
@@ -7475,7 +7475,7 @@
 【人羣優等】socially superior、社會上佔優勢、（人羣+優等）
 【專門優等】technically superior、技術上佔優勢、（專門+優等）
 【浸假發達】gradual development、逐漸發展、（浸假+發達）
-【加速發達】accelerated development、加速發展、（加速+發達）
+【加位發達】accelerated development、加速發展、（加速+發達，勝爲士案：加位Acceleration，亦譯加速、加緊速率）
 【不斷發達】continued development、持續發展、（不斷+發達）
 【宜人演進】healthy development、健康發展、（宜人+演進）
 【中正演進】normal development、正常發展、（中正+演進）
@@ -10074,7 +10074,6 @@
 【成鞴】finished garment、成衣、（成+鞴）
 【鞴業】garment industry、服裝業、（鞴+業）
 【鞴廠】garment factory、服裝加工廠、（鞴+廠）
-【致害之氣質】noxious gas、有害氣體、（致害+氣質）
 【轟發之氣質】explosive gas、爆炸性氣體、（轟發+氣質）
 【可燃之氣質】inflammable gas、可燃性氣體、（可燃+氣質）
 【貴氣質】noble gas、稀有氣體、（貴+氣質）
@@ -12382,7 +12381,7 @@
 【生計舉動】economic measure、經濟措施、（生計+舉動）
 【政策舉動】policy measure、政策措施、（政策+舉動）
 【政府舉動】government measure、政府措施、（政府+舉動）
-【一宗舉動】series of measure、一系列措施、（一宗+舉動）
+【一宗舉動】series of measure、一系列措施、（一宗+舉動，勝爲士案：宗serie，亦譯聯）
 【直接度量】direct measure、直接的測量、（直接+度量）
 【客觀度量】objective measure、如實的計量、（客觀+度量）
 【間接度量】indirect measure、間接的測量、（間接+度量）
@@ -12498,3 +12497,10 @@
 【高能顯微鏡】high-powered microscope、高能顯微鏡、（電子+顯微鏡）
 【光學顯微鏡】optical microscope、光學顯微鏡、（光學+顯微鏡）
 【為中儈】be middleman、做經銷商、（為+中儈，勝爲士案：中儈middleman，單稱儈）
+【Ｐ４驗室】P4實驗室、（Ｐ+４+驗室，勝爲士案：勝爲士案：此字母詞，用阿剌伯碼全形，若０１２３４５６７８９）
+【國家生物安全驗室】National Biosafety Laboratory、國家生物安全實驗室、（國家+生物+安全+驗室）
+【加位論派】Accelerationism、加速主義、（加位+主義）
+【病人０】patient zero、零號病人、零號感染源、（病人+０）
+【畫戲】cartoon、動畫、卡通、（勝爲士案：畫戲cartoon，今本a film made by photographing a series of cartoon drawings之意定名，乃一聯圖畫所成影戲，簡作畫戲）
+【日本畫戲】Japanese cartoon、日本卡通、（日本+畫戲）
+【畫戲世界】cartoon universe、卡通世界、（畫戲+世界
