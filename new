@@ -1244,7 +1244,6 @@
 【拓都重量】total weight、總重量、毛重、（拓都+重量）
 【拓都面積】total area、總面積、（拓都+面積）
 【拓都投資】total investment、總投資、（拓都+投資）
-【拓都出產】total output、總產量、（拓都+出產）
 【拓都功權】total energy、總能量、（拓都+功權）
 【拓都殖產】total production、總產量、（拓都+殖產）
 【拓都壓力】total pressure、總壓力、（拓都+壓力）
@@ -1256,7 +1255,6 @@
 【生計上之拓都】economic aggregate、經濟總體、經濟總量、（生計+拓都）
 【拓都殖產】aggregate production、總生產、（拓都+殖產）
 【拓都所予、拓都根據】aggregate data、總體資料、綜合數據、（拓都+所予/根據）
-【拓都出產】aggregate output、總生產、（拓都+出產）
 【拓都幾何】total quantity、總量、（拓都+幾何）
 【協諧之羣】harmonious society、和諧社會、（協諧+羣）
 【葛拉芬白格】Grafenberg、格拉芬貝格、（g葛+ra拉+fen芬+berg白格）
@@ -1268,10 +1266,10 @@
 【頭會歲入】the annual per-capita income、人均年收入、（頭會+歲入）
 【頭會贏利】per capita profits、人均利潤、（頭會+贏利）
 【頭會面積】per capita area、人均面積、（頭會+面積）
-【出產值】output value、輸出值、（出產+值）
-【高出產】high output、高輸出、高產量、（高+出產）
+【出產值】output value、輸出值、（出產+值，勝爲士案：出產output，亦譯產額）
+【高出產、高產額】high output、高輸出、高產量、（高+出產/產額）
 【歲產】annual output、年產量、（歲+產）
-【生計出產】economic output、經濟產出、經濟產量、（生計+出產）
+【生計出產、生計產額】economic output、經濟產出、經濟產量、（生計+出產/產額）
 【日產】daily output、日產量、（日+產）
 【碰擊功權】percussive energe、衝擊能量、（碰擊+功權）
 【碰擊錘】percussive hammer、衝擊錘、（碰擊+錘）
@@ -5014,7 +5012,7 @@
 【皇室堡砦】royal castle、皇家城堡、（皇室+堡砦）
 【造堡砦】build castle、建造城堡、（造+堡砦）
 【畜玩貓】pet cat、寵物貓、（畜玩+貓）
-【有貓者】cat owner、貓主人、（有+貓+者）
+【有貓者】cat owner、貓主人、（有+貓+者，勝爲士案：有…者owner，亦譯主人）
 【商業辦食】commercial catering、商業餐飲服務、（商業+辦食）
 【契約辦食】contract catering、合同餐飲服務、（契約+辦食）
 【實業辦食】industrial catering、產業餐飲服務、（實業+辦食）
@@ -6606,7 +6604,7 @@
 【版權法】copyright law、版權法、（版權+法）
 【版權保護】copyright protection、版權保護、（版權+保護）
 【版權主人】copyright owner、版權所有人、（版權+主人）
-【版權所有權】copyright ownership、版權所有權、（版權+所有權）
+【版權所有權】copyright ownership、版權所有權、（版權+所有權，勝爲士案：所有權ownership，單稱有，亦譯主業）
 【代表檢屍員】deputy coroner、代理驗尸官、（代表+檢屍員）
 【郡檢屍員】county coroner、縣驗尸官、（郡+檢屍員）
 【檢屍訟廷】coroner's court、死因調查法庭、（檢屍+訟廷）
@@ -13155,3 +13153,41 @@
 【少年組合】youth organization、青年組織、（少年+組合）
 【女體極樂】female orgasm、女性性高潮、（女體+極樂，勝爲士按：極樂，從近譯，謂the moment of most intense pleasure in sexual intercourse）
 【男體極樂】male orgasm、男性性高潮、（男體+極樂）
+【公共原流】common origin、共同的起源、（公共+原流，勝爲士案：原流origin，他處或可譯元點）
+【獨立原流】independent origin、獨立的起源、（獨立+原流）
+【天演原流】evolutionary origin、進化起源、（天演+原流）
+【歷史原流】historical origin、歷史起源、（歷史+原流）
+【低產額】low output、低產量、（低+產額）
+【淨產額】net output、淨產量、（淨+產額）
+【總產額】total output、總產量、（總+產額）
+【全國產額】national output、全國的產量、（全國+產額）
+【世界產額】world output、世界的產量、（世界+產額）
+【完全外人】complete outsider、完全的圈外人、（完全+外人）
+【政治外人】political outsider、政治上的局外人、（政治+外人）
+【社會外人】social outsider、孤立於社會的人、（社會+外人）
+【暴戾傾倒】violent overthrow、暴力推翻、（暴戾+傾倒）
+【前主人】former owner、原所有權人、（前+主人）
+【原主人】original owner、原業主、（原+主人）
+【新主人】new owner、新主人、（新+主人）
+【法許主人】legal owner、合法的所有者、（法許+主人）
+【營業主人】business owner、企業主、（營業+主人）
+【有車者】car owner、車主、（有…者+車）
+【土地主人】land owner、土地所有者、（土地+主人）
+【產業主人】property owner、業主、（產業+主人）
+【獨有】sole ownership、獨有權、（獨+有）
+【完全所有權】full ownership、完全所有權、（完全+所有權）
+【公羣主業】collective ownership、集體擁有、（公羣+主業）
+【公共主業】common ownership、共同擁有、（公共+主業）
+【新所有權】new ownership、新的所有權、（新+所有權）
+【法許所有權】legal ownership、合法所有權、（法許+所有權）
+【車輛所有權】car ownership、汽車所有權、（車輛+所有權）
+【土地所有權】land ownership、土地所有權、（土地+所有權）
+【純氧】pure oxygen、純氧、（純+氧）
+【液氧】liquid oxygen、液態氧、（液+氧）
+【氧莫破】oxygen atom、氧原子、（氧+莫破）
+【氧微塵】oxygen molecule、氧分子、（氧+微塵）
+【氧之供給】oxygen suppy、氧氣供給、（氧+供給）
+【氧銷耗】oxygen consumption、氧消耗、（氧+銷耗）
+【空中電臭氣】atmospheric ozone、大氣臭氧、（空中+電臭氣）
+【電臭氣損失】ozone loss、臭氧減少、（電臭氣+損失）
+【電臭氣濃度】ozone concentration、臭氧濃度、（電臭氣+濃度）
