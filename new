@@ -735,7 +735,7 @@
 【男女變革】sexual revolution、性革命、性別革命、（男女+變革）
 【牝牡之智識】sexual knowledge、性知識、（牝牡+智識）
 【暫住宅舍】temporary shelter、臨時避難所、臨時收容中心、臨時安置所、（暫住+宅舍）
-【黨股】party committee、黨委會、（黨+股）
+【黨股】party committee、黨委會、（黨+股，勝爲士案：黨party，雙稱黨人、政黨）
 【黨股記室】secretary of the party committee、黨委書記、（黨+股+記室）
 【中央股】central committee、中央委員會、（中央+股）
 【組織股】organizing committee、組織委員會、組委會、（組織+股）
@@ -802,7 +802,7 @@
 【民政督率】democratic supervision、民主監督、（民政+督率）
 【自繇民政黨】liberal democratic party、自由民主黨、（自繇+民政+黨）
 【民政國】democratic state、民主國家、（民政+國）
-【關切方造】interested party、相關方、（關切+方造）
+【關切方造】interested party、相關方、（關切+方造，勝爲士案：方造，單稱方）
 【快覺】pleasant sensation、快感、（快+覺）
 【水短缺】water shortage、缺水、水量不足、（水+短缺）
 【水源短缺】shortage of water resources、水資源短缺、（水源+短缺）
@@ -3941,8 +3941,8 @@
 【證人保護】witness protection、對證人的保護、（證人+保護）
 【火災保護】fire protection、防火、（火災+保護）
 【水災保護】flood protection、防洪、（水災+保護）
-【版圖之保護】copyright protection、版權保護、（版圖+保護）
-【專利之保護】patent protection、專利保護、（專利+保護）
+【版圖保護】copyright protection、版權保護、（版圖+保護）
+【專利保護】patent protection、專利保護、（專利+保護）
 【天然脭】natural protein、天然蛋白、（天然+脭）
 【動物脭】animal protein、動物蛋白、（動物+脭）
 【植物脭】vegetable protein、植物蛋白、（植物+脭）
@@ -6129,7 +6129,7 @@
 【學術會議】academic conference、學術會議、（學術+會議）
 【管理會議】management conference、管理層會議、（管理+會議）
 【執政會同】ministerial conference、部長會議、（執政+會同）
-【黨會】party conference、政黨大會、（黨+會）
+【黨會、黨人會同】party conference、政黨大會、（黨/黨人+會/會同）
 【曹郎會同】staff conference、職工大會、（曹郎+會同）
 【立憲會議】constitutional conference、製憲會議、（立憲+會議）
 【教育會議】educational conference、教育會議、（教育+會議）
@@ -13262,3 +13262,55 @@
 【研究合夥】research partnership、研究夥伴關係、（研究+合夥）
 【合夥協約】partnership agreement、合夥協議、（合夥+協約）
 【合夥法】partnership law、合夥企業法、（合夥+法）
+【政黨】political party、政黨、（政+黨）
+【中宗黨人】center party、中間派政黨、（中宗+黨人）
+【中右黨人】center-right party、中右派政黨、（中右+黨人）
+【左宗黨人】left-wing party、左翼政黨、（左宗+黨人）
+【右宗黨人】right-wing party、右翼政黨、（右宗+黨人）
+【國種主義政黨】nationalist party、民族主義政黨、（國種主義+政黨）
+【庸眾主義政黨】populist party、民粹主義政黨、（庸眾主義+政黨）
+【進步黨人】progressive party、進步政黨、（進步+黨人）
+【民本政黨】racist party、激進黨派、（民本+政黨）
+【國會黨人】parliamentary party、議會政黨、（國會+黨人）
+【制治政黨】governing party、執政黨、（制治+政黨）
+【政黨選人】party candidate、政黨候選人、（政黨+選人）
+【黨主席】party chairman、黨主席、（黨+主席）
+【黨長官】party leader、政黨領導者、（黨+長官）
+【黨有司】party official、政黨官員、（黨+有司）
+【政黨路線】party lines、政黨路線、（政黨+路線）
+【黨人政治】party politics、政黨政治、（黨人+政治）
+【有罪方造】guilty party、有罪的一方、（有罪+方造）
+【中立方】neutral party、中立方、（中立+方）
+【長道】long passage、長通道、（長+道）
+【短道】short passage、短通道、（短+道）
+【地下道】underground passage、地下通道、（地下+道）
+【密道】secret passage、秘密通道、（密+道）
+【客載飛車】passenger aircraft、客機、（客載+飛車）
+【客載航空】passenger flight、客運航班、（客載+航空）
+【客載站】passenger station、客運站、（客載+站）
+【揭桓事級】crucial step、決定性的一步、（揭桓+事級）
+【重要事級】vital step、重要的一步、（重要+事級）
+【必須事級】necessary step、必要的步驟、（必須+事級）
+【羅曼之深情】romantic passion、浪漫的激情、（羅曼+深情）
+【暴戾之深情】violent passion、暴烈的激情、（暴戾+深情）
+【人類之深情】human passion、人類的激情、（人類+深情）
+【少年之深情】youthful passion、青春激情、（少年+深情）
+【智識深情】intellectual passion、知識熱情、（智識+深情）
+【道德深情】moral passion、道德熱情、（道德+深情）
+【政治深情】political passion、政治熱情、（政治+深情）
+【教宗深情】religious passion、宗教熱情、（教宗+深情）
+【完全關符】full passport、完全護照、（完全+關符）
+【假關符】false passport、假護照、（假+關符）
+【墨斯哥關符】mexican passport、墨西哥護照、（墨斯哥+關符）
+【瑞士關符】swiss passport、瑞士護照、（瑞士+關符）
+【異國關符】foreign passport、外國護照、（異國+關符）
+【外交關符】diplomatic passport、外交護照、（外交+關符）
+【關符照像】passport photograph、護照上的照片、（關符+照像）
+【關符碼】passport number、護照號碼、（關符+碼）
+【關符呈請】passport application、護照申請、（關符+呈請）
+【密語】password、密碼、（密語，勝爲士案：密語password，本a secret word or phrase known only to a restricted group之意定名）
+【準確密語】correct password、正確的密碼、（準確+密語）
+【有效密語】valid password、有效的密碼、（有效+密語）
+【專利局】patent office、專利局、（專利+局）
+【病學家】pathologist、病理學家、（病學+家）
+【病學家之呈報】pathologist's report、病理學家報告、（病學家+呈報）
