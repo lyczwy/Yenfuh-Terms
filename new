@@ -98,7 +98,7 @@
 【邦人自繇】civil liberty、公民自由、（邦人+自繇）
 【知力財產】intellectual property、知識產權、（知力+財產）
 【屋產】house property、房產、（屋+產）
-【刑事上之難行】criminal impossibility、犯罪不能、（刑事+難行）
+【刑事上之難行】criminal impossibility、犯罪不能、（刑事+難行，勝爲士案：刑事criminal，他處或可譯刑律）
 【實質上之難行】material impossibility、實際不可能、（實質+難行）
 【天演說】theory of evolution、進化論、（天演+說）
 【教化天演】cultural evolution、文化演化、（教化+天演，勝爲士案：天演猶演進，偏義）
@@ -430,11 +430,11 @@
 【僵固鋼】rigid steel、硬鋼、（僵固+鋼）
 【拼切檢點】spell checker、拼寫檢查、（拼切+檢點）
 【生計發達】economic development、經濟發展、經濟開發、（生計+發達）
-【美術之物覺】aesthetic perception、審美觀念、審美知覺、（美術+物覺）
-【運動之物覺】motion perception、運動知覺、（運動+物覺）
-【空間之物覺】spatial perception、空間知覺、（空間+物覺）
-【時間之物覺】time perception、時間知覺、（時間+物覺）
-【物覺之媒介】perception medium、感覺媒體、感知媒體、（物覺+媒介）
+【美術物覺】aesthetic perception、審美觀念、審美知覺、（美術+物覺）
+【運動物覺】motion perception、運動知覺、（運動+物覺）
+【空間物覺】spatial perception、空間知覺、（空間+物覺）
+【時間物覺】time perception、時間知覺、（時間+物覺）
+【物覺媒介】perception medium、感覺媒體、感知媒體、（物覺+媒介）
 【科學專門】science and technology、科學技術、（科學+專門）
 【學術】science and art、科學與藝術、（學+術）
 【操作之制】operating system、操作系統、作業系統、（操作+制）
@@ -2178,7 +2178,7 @@
 【臆定函數】arbitrary function、隨意函數、任意函數、（臆定+函數）
 【臆定數】arbitrary value、任意值、（臆定+數）
 【公命分】common denominator、公分母、（公+命分）
-【舉分值百率】numerator percentage、分子百分率、（舉分+值百率）
+【舉分值百率】numerator percentage、分子百分率、（舉分+值百率，勝爲士案：值百率percentage，他處或可譯百分法）
 【比例舉分】proportion numerator、比例分子、（比例+舉分）
 【舉分功權】numerator energy、分子能、（舉分+功權）
 【一部舉分】partial numerator、部分分子、（一部+舉分）
@@ -8335,7 +8335,7 @@
 【郵政僱工】postal employee、郵局僱員、（郵政+僱工）
 【僱工分位】employee status、僱員地位、（僱工+分位，勝爲士案：分位status，亦譯地位）
 【僱工關係】employee relations、僱員關係、（僱工+關係）
-【僱工執行】employee performance、員工業績、（僱工+執行）
+【僱工執行】employee performance、員工業績、（僱工+執行，勝爲士案：執行performance，他處或可譯履行）
 【僱工生利】employee productivity、員工生產力、（僱工+生利）
 【僱工訓習】employee training、員工培訓、（僱工+訓習）
 【僱工刺戟】employee incentive、員工激勵、（僱工+刺戟）
@@ -9199,6 +9199,7 @@
 【宣洩流質】drain fluid、排走液體、（宣洩+流質）
 【飲流質】drink fluid、喝流質、（飲+流質）
 【勺點、焦點】focal point、中心、（勺點/焦點，勝爲士案：Focus，數學上曰勺點，光學上曰焦點）
+【肄習之勺點】focal point of learning、學習的活動中心、（肄習+勺點）
 【真焦點】real focus、真正的焦點、（真+焦點）
 【新焦點】new focus、新的焦點、（新+焦點）
 【心之焦點】mental focus、心理焦點、（心+焦點）
@@ -11162,8 +11163,8 @@
 【烹調新創】culinary invention、烹飪發明、（烹調+新創）
 【語言新創】linguistic invention、語言發明、（語言+新創）
 【專門新創】technological invention、技術發明、（專門+新創）
-【殘疾椅】invalid chair、殘疾人椅、（殘疾+椅，勝爲士案：殘疾，又曰狼藉、病廢，殘疾障礙也）
-【殘疾幼孩】invalid children、病弱兒童、虛弱兒童、（殘疾+幼孩）
+【病廢椅】invalid chair、殘疾人椅、（病廢+椅）
+【病廢幼孩】invalid children、病弱兒童、虛弱兒童、（病廢+幼孩）
 【及身殘疾】lifelong disability、終身殘疾、（及身+殘疾）
 【長期殘疾】long-term disability、長期殘疾、（長期+殘疾）
 【知之殘疾】cognitive disability、認知障礙、（知+殘疾）
@@ -13314,3 +13315,88 @@
 【專利局】patent office、專利局、（專利+局）
 【病學家】pathologist、病理學家、（病學+家）
 【病學家之呈報】pathologist's report、病理學家報告、（病學家+呈報）
+【時庸】hourly pay、時薪、（時+庸）
+【月庸】monthly pay、月薪、（月+庸）
+【全庸】full pay、全薪、（全+庸）
+【半庸】half pay、半薪、（半+庸）
+【高庸】high pay、高薪、（高+庸）
+【低庸】low pay、低薪、（低+庸）
+【平均庸錢】average pay、平均工資、（平均+庸錢）
+【等庸】equal pay、相同的工資、（等+庸）
+【男女等庸】equal pay for men and women、男女同酬、（男+女+等庸）
+【退庸】retirement pay、退休金、（退+庸）
+【庸錢磋商】pay negotiation、工資談判、（庸錢+磋商）
+【庸率】pay rates、工資水平、（庸+率）
+【庸錢構造】pay structure、工資結構、（庸錢+構造）
+【對待之和平】relative peace、相對的和平、（對待+和平）
+【世界和平】world peace、世界和平、（世界+和平）
+【和平抗議】peace protest、和平抗議、（和平+抗議）
+【美術牒譜】artistic pedigree、藝術譜系、（美術+牒譜）
+【智識牒譜】intellectual pedigree、智識譜系、（智識+牒譜）
+【文學牒譜】literary pedigree、文學譜系、（文學+牒譜）
+【自動刑罰】automatic penalty、自動處罰、（自動+刑罰）
+【定額刑罰】fixed penalty、定額罰款、（定額+刑罰）
+【度支刑罰】financial penalty、經濟處罰、（度支+刑罰）
+【民事刑罰】civil penalty、民事處罰、（民事+刑罰）
+【刑事刑罰】criminal penalty、刑事處罰、（刑事+刑罰）
+【刑罰知會】penalty notice、罰款通知單、（刑罰+知會）
+【刑罰之例】penalty clause、處罰條款、（刑罰+例）
+【刑罰制度】penalty system、罰款制度、（刑罰+制度）
+【入肛】anal penetration、肛交、（入+肛）
+【入陰】vaginal penetration、陰道插入、（入+陰）
+【不足恩金】inadequate pension、微薄的養老金、（不足+恩金）
+【根柢恩金】basic pension、基本退休金、（根柢+恩金）
+【國家恩金】state pension、政府養老金、（國家+恩金）
+【執業恩金】occupation pension、職業養老金、（執業+恩金）
+【箇人恩金】personal pension、個人養老金、（箇人+恩金）
+【保許恩金】guaranteed pension、保障養老金、（保許+恩金）
+【年恩金】annual pension、年退休金、（年+恩金）
+【月恩金】monthly pension、月退休金、（月+恩金）
+【來復恩金】weekly pension、周退休金、（來復+恩金）
+【殘疾恩金】disability pension、殘疾撫恤金、（殘疾+恩金）
+【病廢恩金】invalid pension、病殘退休金、（病廢+恩金）
+【恩金年齒】pension age、領取養老金的年齡、（恩金+年齒）
+【恩金儲蓄】pension savings、養老金儲蓄、（恩金+儲蓄）
+【恩金給予】pension payment、養老金給予、（恩金+給予）
+【恩金虧空】pension deficit、養老金虧空、（恩金+虧空）
+【恩金政策】pension policy、養老保險政策、（恩金+政策）
+【恩金諮議】pension consultant、養老金顧問、（恩金+諮議）
+【進長值百率】growing percentage、增長的百分比、（進長+值百率）
+【對待值百率】relative percentage、相對百分比、（對待+值百率）
+【固定值百率】fixed percentage、固定百分比、（固定+值百率）
+【平均值百率】average percentage、平均百分比、（平均+值百率）
+【拓都值百率】total percentage、總體百分比、（拓都+值百率）
+【百分點】percentage point、百分點、（百分+點）
+【百分率】percentage rate、百分比率、（百分+率）
+【百分值】percentage value、百分比值、（百分+值）
+【明瞭物覺】clear perception、清楚的認識、（明瞭+物覺）
+【晳畫物覺】distinct perception、清晰的認識、（晳畫+物覺）
+【虛妄物覺】false perception、錯誤的認識、（虛妄+物覺）
+【積極物覺】positive perception、積極的看法、（積極+物覺）
+【消極物覺】negative perception、消極的看法、（消極+物覺）
+【公眾物覺】public perception、公眾認知、（公眾+物覺）
+【人類物覺】human perception、人類的感知、（人類+物覺）
+【銷者物覺】consumer perception、消費者的認識、（銷者+物覺）
+【父母物覺】parental perception、父母的認知、（父母+物覺）
+【教化物覺】cultural perception、文化認知、（教化+物覺）
+【主觀物覺】subjective perception、主觀認知、（主觀+物覺）
+【碰擊樂器】percussion instrument、打擊樂器、（碰擊+樂器）
+【絕對完全】absolute perfection、絕對完美、（絕對+完全）
+【道德完全】moral perfection、道德完美、（道德+完全）
+【形氣完全】physical perfection、身體無瑕疵、（形氣+完全）
+【神明完全】spiritual perfection、精神完美、（神明+完全）
+【專門完全】technical perfection、技術的完善、（專門+完全）
+【神之完全】divine perfection、神聖般完美、（神+完全）
+【人類完全】human perfection、人類能達到的完美、（人類+完全）
+【完全點】a point of perfection、完美點、（完全+點）
+【完全模範】a model of perfection、完美的典範、（完全+模範）
+【內周邊】inner perimeter、內周長、（內+周邊）
+【外周邊】outer perimeter、外周長、（外+周邊）
+【北周邊】northern perimeter、北部邊緣、（北+周邊）
+【南周邊】southern perimeter、南部邊緣、（南+周邊）
+【根地周邊】base perimeter、基地周邊、（根地+周邊，勝爲士案：根地，從近譯）
+【周邊道路】perimeter road、環繞四周的道路、（周邊+道路）
+【異國根地】foreign base、外國軍事基地、（異國+根地）
+【空軍根地】air-force base、空軍基地、（空軍+根地）
+【軍事根地】military base、軍事基地、（軍事+根地）
+【海軍根地】naval base、海軍基地、（海軍+根地）
